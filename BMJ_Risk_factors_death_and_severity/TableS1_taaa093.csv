@@ -1,0 +1,1365 @@
+Origin,risk_i,municipality,name,region,continent
+PEK,0.7446300644983057,Beijing,Beijing Capital International Airport,CN-11,AS
+HKG,0.6035680697128687,Hong Kong,Hong Kong International Airport Kai Tak,HK-U-A,AS
+SIN,0.5035341057418086,Singapore,Singapore Changi Airport,SG-04,AS
+DEL,0.4758637223827805,New Delhi,Indira Gandhi International Airport,IN-DL,AS
+PVG,0.46828033085929965,Shanghai,Shanghai Pudong International Airport,CN-31,AS
+DXB,0.46650329777906463,Dubai,Dubai International Airport,AE-DU,AS
+BKK,0.43299857704987366,Bangkok,Suvarnabhumi Airport,TH-10,AS
+NRT,0.4315080380771502,Tokyo,Narita International Airport,JP-12,AS
+BOM,0.42451939251519244,Mumbai,Chhatrapati Shivaji International Airport,IN-MM,AS
+LHR,0.4195935881985313,London,London Heathrow Airport,GB-ENG,EU
+CAN,0.41424891148206033,Guangzhou,Guangzhou Baiyun International Airport,CN-44,AS
+ICN,0.4018553904371315,Seoul,Incheon International Airport,KR-28,AS
+TPE,0.3836216321039102,Taipei,Taiwan Taoyuan International Airport,TW-TAO,AS
+SHA,0.38322139911693276,Shanghai,Shanghai Hongqiao International Airport,CN-31,AS
+FRA,0.3708532308454092,Frankfurt am Main,Frankfurt am Main Airport,DE-HE,EU
+CDG,0.36857735464721275,Paris,Charles de Gaulle International Airport,FR-IDF,EU
+CTS,0.3670167216106771,Chitose / Tomakomai,New Chitose Airport,JP-01,AS
+CTU,0.3250184067517313,Chengdu,Chengdu Shuangliu International Airport,CN-51,AS
+KUL,0.31764858873713275,Kuala Lumpur,Kuala Lumpur International Airport,MY-14,AS
+MAD,0.3030775450040516,Madrid,Adolfo Suárez Madrid–Barajas Airport,ES-M,EU
+SZX,0.2927821437781162,Shenzhen,Shenzhen Bao'an International Airport,CN-44,AS
+FUK,0.2854895317134164,Fukuoka,Fukuoka Airport,JP-40,AS
+AMS,0.27803602031716124,Amsterdam,Amsterdam Airport Schiphol,NL-NH,EU
+LAX,0.2766725756447104,Los Angeles,Los Angeles International Airport,US-CA,NA
+BLR,0.26277374307455337,Bangalore,Kempegowda International Airport,IN-KA,AS
+JFK,0.2472619383003961,New York,John F Kennedy International Airport,US-NY,NA
+MNL,0.24387656730404328,Manila,Ninoy Aquino International Airport,PH-U-A,AS
+ORD,0.24052309468401256,Chicago,Chicago O'Hare International Airport,US-IL,NA
+XIY,0.23552978105319755,Xi'an,Xi'an Xianyang International Airport,CN-61,AS
+GRU,0.23258539699603453,São Paulo,Guarulhos - Governador André Franco Montoro International Airport,BR-SP,SA
+HND,0.22811212103172884,Tokyo,Tokyo Haneda International Airport,JP-13,AS
+OKA,0.2215674591580742,Naha,Naha Airport,JP-47,AS
+HGH,0.2187631144027571,Hangzhou,Hangzhou Xiaoshan International Airport,CN-33,AS
+SFO,0.21412398185515635,San Francisco,San Francisco International Airport,US-CA,NA
+CKG,0.2107400736738152,Chongqing,Chongqing Jiangbei International Airport,CN-50,AS
+MAA,0.20390293791494984,Chennai,Chennai International Airport,IN-TN,AS
+FCO,0.19668031070941028,Rome,Leonardo da Vinci–Fiumicino Airport,IT-62,EU
+ATL,0.19295304173114924,Atlanta,Hartsfield Jackson Atlanta International Airport,US-GA,NA
+KIX,0.18942930794386736,Osaka,Kansai International Airport,JP-27,AS
+HYD,0.18714633102112432,Hyderabad,Rajiv Gandhi International Airport,IN-TG,AS
+MIA,0.1861392334719877,Miami,Miami International Airport,US-FL,NA
+CCU,0.1858657349942382,Kolkata,Netaji Subhash Chandra Bose International Airport,IN-WB,AS
+CJU,0.18583587816464475,Jeju City,Jeju International Airport,KR-49,AS
+MUC,0.18536081803405602,Munich,Flughafen München-Riem,DE-BY,EU
+KMG,0.1778148610103506,Kunming,Kunming Changshui International Airport,CN-53,AS
+DLC,0.1703135207405736,Dalian,Zhoushuizi Airport,CN-21,AS
+DOH,0.16992152995159926,Doha,Hamad International Airport,QA-DA,AS
+SGN,0.16782674807977316,Ho Chi Minh City,Tan Son Nhat International Airport,VN-23,AS
+ITM,0.16501674703625113,Osaka,Osaka International Airport,JP-27,AS
+CSX,0.1636507207174266,Changsha,Changsha Huanghua International Airport,CN-43,AS
+SHE,0.15811469014858637,Shenyang,Taoxian Airport,CN-21,AS
+ZRH,0.1520936753761577,Zurich,Zürich Airport,CH-ZH,EU
+MXP,0.15077426521104753,Milan,Malpensa International Airport,IT-25,EU
+HAN,0.15005694732597186,Hanoi,Noi Bai International Airport,VN-15,AS
+IST,0.14838747085597936,Istanbul,Istanbul Airport,TR-34,AS
+DPS,0.14796091440693315,Denpasar-Bali Island,Ngurah Rai (Bali) International Airport,ID-BA,AS
+NKG,0.14380690414069186,Nanjing,Nanjing Lukou Airport,CN-32,AS
+TAO,0.14366472992408508,Qingdao,Liuting Airport,CN-37,AS
+XMN,0.14184408819615613,Xiamen,Xiamen Gaoqi International Airport,CN-35,AS
+BOS,0.13991135446218705,Boston,General Edward Lawrence Logan International Airport,US-MA,NA
+GIG,0.13952149412452075,Rio De Janeiro,Rio Galeão – Tom Jobim International Airport,BR-RJ,SA
+JNB,0.13443213112036334,Johannesburg,O R Tambo International,ZA-U-A,AF
+YYZ,0.13438322406067327,Toronto,Lester B. Pearson International Airport,CA-ON,NA
+NCE,0.13411303632408889,Nice,Nice-Côte d'Azur Airport,FR-PAC,EU
+DFW,0.13127883790981232,Dallas-Fort Worth,Dallas Fort Worth International Airport,US-TX,NA
+DUB,0.12885820921713875,Dublin,Dublin Airport,IE-D,EU
+WUH,0.12776085276958893,Wuhan,Wuhan Tianhe International Airport,CN-42,AS
+AUH,0.1254751785859458,Abu Dhabi,Abu Dhabi International Airport,AE-AZ,AS
+VIE,0.12424577544122162,Vienna,Vienna International Airport,AT-9,EU
+MCO,0.12410038514803401,Orlando,Orlando International Airport,US-FL,NA
+IAH,0.1233751909090608,Houston,George Bush Intercontinental Houston Airport,US-TX,NA
+SYD,0.12332378330539073,Sydney,Sydney Kingsford Smith International Airport,AU-NSW,OC
+CGK,0.12058509841194343,Jakarta,Soekarno-Hatta International Airport,ID-BT,AS
+PUS,0.12032786293241715,Busan,Gimhae International Airport,KR-26,AS
+CEB,0.11533804745240861,Lapu-Lapu City,Mactan Cebu International Airport,PH-CEB,AS
+SVO,0.11040946514552319,Moscow,Sheremetyevo International Airport,RU-MOS,EU
+LIS,0.10915984836780734,Lisbon,Humberto Delgado Airport (Lisbon Portela Airport),PT-11,EU
+SDU,0.10819084154119885,Rio De Janeiro,Santos Dumont Airport,BR-RJ,SA
+SSA,0.10799100280195317,Salvador,Deputado Luiz Eduardo Magalhães International Airport,BR-BA,SA
+TLS,0.10760345848719866,Toulouse/Blagnac,Toulouse-Blagnac Airport,FR-OCC,EU
+SUB,0.10748293988264646,Surabaya,Juanda International Airport,ID-JI,AS
+IAD,0.10703267692035845,Washington,Washington Dulles International Airport,US-DC,NA
+CPH,0.10688016000373779,Copenhagen,Copenhagen Kastrup Airport,DK-84,EU
+NGO,0.10598224934199862,Tokoname,Chubu Centrair International Airport,JP-23,AS
+KOJ,0.1035590826919498,Kagoshima,Kagoshima Airport,JP-46,AS
+GVA,0.10334237760102094,Geneva,Geneva Cointrin International Airport,CH-GE,EU
+YVR,0.10333460596700961,Vancouver,Vancouver International Airport,CA-BC,NA
+BCN,0.10327821221728994,Barcelona,Barcelona International Airport,ES-CT,EU
+TLV,0.10293436002696332,Tel Aviv,Ben Gurion International Airport,IL-M,AS
+FLL,0.10259958294568572,Fort Lauderdale,Fort Lauderdale Hollywood International Airport,US-FL,NA
+GMP,0.10133322311308202,Seoul,Gimpo International Airport,KR-11,AS
+CNF,0.10035062143177276,Belo Horizonte,Tancredo Neves International Airport,BR-MG,SA
+REC,0.09983427836111713,Recife,Guararapes - Gilberto Freyre International Airport,BR-PE,SA
+HAK,0.0985767070381749,Haikou,Haikou Meilan International Airport,CN-46,AS
+CAI,0.09827695862630392,Cairo,Cairo International Airport,EG-C,AF
+AMD,0.0967836600874078,Ahmedabad,Sardar Vallabhbhai Patel International Airport,IN-GJ,AS
+BRU,0.09601982900493511,Brussels,Brussels Airport,BE-BRU,EU
+ATH,0.09471114571551953,Athens,Eleftherios Venizelos International Airport,GR-A1,EU
+CGO,0.09469711296042693,Zhengzhou,Zhengzhou Xinzheng International Airport,CN-41,AS
+EDI,0.09442885632215048,Edinburgh,Edinburgh Airport,GB-SCT,EU
+WNZ,0.09377196692312706,Wenzhou,Wenzhou Longwan International Airport,CN-33,AS
+ADB,0.09292545204710789,İzmir,Adnan Menderes International Airport,TR-35,AS
+DTW,0.09255956941629317,Detroit,Detroit Metropolitan Wayne County Airport,US-MI,NA
+KWE,0.09243740823447322,Guiyang,Longdongbao Airport,CN-52,AS
+EWR,0.09213670987637756,Newark,Newark Liberty International Airport,US-NJ,NA
+JED,0.09188621355504145,Jeddah,King Abdulaziz International Airport,SA-02,AS
+HRB,0.09161833751170334,Harbin,Taiping Airport,CN-23,AS
+NGB,0.09132308586477178,Ningbo,Ningbo Lishe International Airport,CN-33,AS
+DUS,0.09003405533912057,Düsseldorf,Düsseldorf Airport,DE-NW,EU
+MES,0.08961357849097484,Medan-Sumatra Island,Soewondo Air Force Base,ID-SU,AS
+HNL,0.08910578828589477,Honolulu,Daniel K Inouye International Airport,US-HI,NA
+POA,0.08899399811703979,Porto Alegre,Salgado Filho Airport,BR-RS,SA
+CGQ,0.08888708842443804,Changchun,Longjia Airport,CN-22,AS
+URC,0.08812400035746426,Ürümqi,Ürümqi Diwopu International Airport,CN-65,AS
+MEX,0.0874301921663917,Mexico City,Licenciado Benito Juarez International Airport,MX-DIF,NA
+LAS,0.08547382053125196,Las Vegas,McCarran International Airport,US-NV,NA
+CLT,0.08545084495508937,Charlotte,Charlotte Douglas International Airport,US-NC,NA
+LED,0.08475383782543167,St. Petersburg,Pulkovo Airport,RU-SPE,EU
+HEL,0.08453233725734188,Helsinki,Helsinki Vantaa Airport,FI-ES,EU
+CGH,0.08243357980621224,São Paulo,Congonhas Airport,BR-SP,SA
+MFM,0.08201464270357173,Macau,Macau International Airport,MO-U-A,AS
+SEA,0.08156799025669315,Seattle,Seattle Tacoma International Airport,US-WA,NA
+KWL,0.08055467098295443,Guilin City,Guilin Liangjiang International Airport,CN-45,AS
+MRS,0.07977166595668539,Marseille,Marseille Provence Airport,FR-PAC,EU
+GOI,0.07960333109802309,Vasco da Gama,Dabolim Airport,IN-GA,AS
+PRG,0.07931246177303364,Prague,Václav Havel Airport Prague,CZ-PR,EU
+CUN,0.07859616880290721,Cancún,Cancún International Airport,MX-ROO,NA
+CWB,0.07841640373933856,Curitiba,Afonso Pena Airport,BR-PR,SA
+TSN,0.07617051601804248,Tianjin,Tianjin Binhai International Airport,CN-12,AS
+YUL,0.07590231334721254,Montréal,Montreal / Pierre Elliott Trudeau International Airport,CA-QC,NA
+DEN,0.0746648951082095,Denver,Denver International Airport,US-CO,NA
+ARN,0.07450345080840037,Stockholm,Stockholm-Arlanda Airport,SE-AB,EU
+KHN,0.07431717349583145,Nanchang,Nanchang Changbei International Airport,CN-36,AS
+ESB,0.07406994295140179,Ankara,Esenboğa International Airport,TR-06,AS
+AYT,0.07406047337377164,Antalya,Antalya International Airport,TR-07,AS
+GDL,0.07323357651184548,Guadalajara,Don Miguel Hidalgo Y Costilla International Airport,MX-JAL,NA
+DVO,0.0730324166155022,Davao City,Francisco Bangoy International Airport,PH-DAV,AS
+UPG,0.07263832027559858,Ujung Pandang-Celebes Island,Hasanuddin International Airport,ID-SN,AS
+KMJ,0.07213373595248507,Kumamoto,Kumamoto Airport,JP-43,AS
+DCA,0.07140724008730848,Washington,Ronald Reagan Washington National Airport,US-DC,NA
+MSP,0.07132543471919928,Minneapolis,Minneapolis-St Paul International/Wold-Chamberlain Airport,US-MN,NA
+EZE,0.07128838179714814,Buenos Aires,Ministro Pistarini International Airport,AR-B,SA
+CNX,0.07128755111427798,Chiang Mai,Chiang Mai International Airport,TH-50,AS
+AGP,0.07093199563485053,Málaga,Málaga Airport,ES-AN,EU
+SCL,0.07079050006799825,Santiago,Comodoro Arturo Merino Benítez International Airport,CL-RM,SA
+SYX,0.07072761856019583,Sanya,Sanya Phoenix International Airport,CN-46,AS
+MTY,0.07064393716467277,Monterrey,General Mariano Escobedo International Airport,MX-NLE,NA
+HFE,0.0702448413489003,Hefei,Hefei Luogang International Airport,CN-34,AS
+COK,0.06962536027679578,Kochi,Cochin International Airport,IN-KL,AS
+GLA,0.06937991897775297,Glasgow,Glasgow International Airport,GB-SCT,EU
+CMN,0.06855837816045562,Casablanca,Mohammed V International Airport,MA-CAS,AF
+HIJ,0.06776109028726163,Hiroshima,Hiroshima Airport,JP-34,AS
+MAN,0.06638233399917615,Manchester,Manchester Airport,GB-ENG,EU
+RUH,0.06611229178969702,Riyadh,King Khaled International Airport,SA-01,AS
+TYN,0.06559888970687167,Taiyuan,Taiyuan Wusu Airport,CN-14,AS
+PNQ,0.0651657280113167,Pune,Pune Airport,IN-MM,AS
+PMI,0.064646317666194,Palma De Mallorca,Palma De Mallorca Airport,ES-PM,EU
+FOC,0.06439096732681737,Fuzhou,Fuzhou Changle International Airport,CN-35,AS
+CMB,0.06438317141445282,Colombo,Bandaranaike International Colombo Airport,LK-1,AS
+NNG,0.06431402321977786,Nanning,Nanning Wuxu Airport,CN-45,AS
+TXL,0.06350072543381668,Berlin,Berlin-Tegel Airport,DE-BE,EU
+AMM,0.06315499486141851,Amman,Queen Alia International Airport,JO-AM,AS
+PHX,0.06301933909611612,Phoenix,Phoenix Sky Harbor International Airport,US-AZ,NA
+LHW,0.061672024790506264,Lanzhou,Lanzhou Zhongchuan Airport,CN-62,AS
+NGS,0.059334367771994856,Nagasaki,Nagasaki Airport,JP-42,AS
+BOD,0.0585753735239144,Bordeaux/Mérignac,Bordeaux-Mérignac Airport,FR-NAQ,EU
+KHH,0.05851942801876375,Kaohsiung City,Kaohsiung International Airport,TW-KHH,AS
+KMQ,0.058335293772028285,Kanazawa,Komatsu Airport,JP-17,AS
+MEL,0.05756003534063536,Melbourne,Melbourne International Airport,AU-VIC,OC
+KMI,0.05716375578756372,Miyazaki,Miyazaki Airport,JP-45,AS
+DAD,0.05636878919457122,Da Nang,Da Nang International Airport,VN-60,AS
+FOR,0.056250784609982785,Fortaleza,Pinto Martins International Airport,BR-CE,SA
+JOG,0.05617953805914966,Yogyakarta-Java Island,Adi Sutjipto International Airport,ID-YO,AS
+ABV,0.05575773102593162,Abuja,Nnamdi Azikiwe International Airport,NG-FC,AF
+DAC,0.05570142549767665,Dhaka,Hazrat Shahjalal International Airport,BD-3,AS
+MYJ,0.054663072485544584,Matsuyama,Matsuyama Airport,JP-38,AS
+BUD,0.0538963154636426,Budapest,Budapest Liszt Ferenc International Airport,HU-PE,EU
+GUM,0.053761581645356715,"Hagåtña, Guam International Airport",Antonio B. Won Pat International Airport,GU-U-A,OC
+BOG,0.05319904201185266,Bogota,El Dorado International Airport,CO-CUN,SA
+CUZ,0.05317017419349357,Cusco,Alejandro Velasco Astete International Airport,PE-CUS,SA
+ILO,0.0528837373661476,Iloilo City,Iloilo International Airport,PH-ILI,AS
+KTM,0.05192031178304246,Kathmandu,Tribhuvan International Airport,NP-BA,AS
+NBO,0.05151975465610581,Nairobi,Jomo Kenyatta International Airport,KE-110,AF
+TPA,0.051318259317327364,Tampa,Tampa International Airport,US-FL,NA
+GAU,0.05047316262498336,Guwahati,Lokpriya Gopinath Bordoloi International Airport,IN-AS,AS
+WAW,0.05041824514723536,Warsaw,Warsaw Chopin Airport,PL-MZ,EU
+BEY,0.04944919856307406,Beirut,Beirut Rafic Hariri International Airport,LB-JL,AS
+TNA,0.049387026816992474,Jinan,Yaoqiang Airport,CN-37,AS
+BPN,0.048980047918728564,Kotamadya Balikpapan,Sultan Aji Muhamad Sulaiman Airport,ID-KI,AS
+PHL,0.04887081854377717,Philadelphia,Philadelphia International Airport,US-PA,NA
+KBP,0.04878780740027766,Kiev,Boryspil International Airport,UA-32,EU
+JAI,0.04875913136764398,Jaipur,Jaipur International Airport,IN-RJ,AS
+BCD,0.047110923913396774,Bacolod City,Bacolod-Silay Airport,PH-NEC,AS
+SHJ,0.04697239944109943,Sharjah,Sharjah International Airport,AE-SH,AS
+SXF,0.04695625546704785,Berlin,Berlin-Schönefeld Airport,DE-BR,EU
+ORY,0.04659102991836073,Paris,Paris-Orly Airport,FR-IDF,EU
+DME,0.04597947656841439,Moscow,Domodedovo International Airport,RU-MOS,EU
+FLN,0.04548738551765641,Florianópolis,Hercílio Luz International Airport,BR-SC,SA
+OIT,0.04421906929902075,Oita,Oita Airport,JP-44,AS
+HAM,0.043948239391027766,Hamburg,Hamburg Airport,DE-HH,EU
+CGY,0.0437134249679042,Cagayan de Oro City,Laguindingan Airport,PH-MSR,AS
+SVX,0.043694017602519564,Yekaterinburg,Koltsovo Airport,RU-SVE,AS
+TIJ,0.04274769762235686,Tijuana,General Abelardo L. Rodríguez International Airport,MX-BCN,NA
+INC,0.042365580848984785,Yinchuan,Yinchuan Hedong International Airport,CN-64,AS
+ADA,0.0419220639489285,Adana,Adana Airport,TR-01,AS
+NAG,0.04160684933280401,Naqpur,Dr. Babasaheb Ambedkar International Airport,IN-MM,AS
+LYS,0.04095213716417656,Lyon,Lyon Saint-Exupéry Airport,FR-ARA,EU
+PLM,0.04083234018328452,Palembang-Sumatra Island,Sultan Mahmud Badaruddin II Airport,ID-SS,AS
+TAK,0.040829379767704066,Takamatsu,Takamatsu Airport,JP-37,AS
+RDU,0.040499485339762886,Raleigh/Durham,Raleigh Durham International Airport,US-NC,NA
+ALC,0.040416437922887405,Alicante,Alicante International Airport,ES-V,EU
+ADD,0.04039782073845244,Addis Ababa,Addis Ababa Bole International Airport,ET-AA,AF
+STR,0.04023118128725567,Stuttgart,Stuttgart Airport,DE-BW,EU
+NAT,0.04014066848610043,Natal,Governador Aluízio Alves International Airport,BR-RN,SA
+VCE,0.03975613799199218,Venice,Venice Marco Polo Airport,IT-34,EU
+SWA,0.039737965566642885,Shantou,Jieyang Chaoshan International Airport,CN-44,AS
+AKJ,0.039623546186362324,Asahikawa / Hokkaidō,Asahikawa Airport,JP-01,AS
+BHD,0.03898504349077314,Belfast,George Best Belfast City Airport,GB-NIR,EU
+ZUH,0.03867304508733216,Zhuhai,Zhuhai Jinwan Airport,CN-44,AS
+HKD,0.03832996693598956,Hakodate,Hakodate Airport,JP-01,AS
+ALG,0.0375395354095428,Algiers,Houari Boumediene Airport,DZ-35,AF
+REP,0.037538656325053155,Siem Reap,Siem Reap International Airport,KH-17,AS
+OTP,0.03701875706260571,Bucharest,Henri Coandă International Airport,RO-B,EU
+SLC,0.03644107684369724,Salt Lake City,Salt Lake City International Airport,US-UT,NA
+PNH,0.036267402066751386,Phnom Penh,Phnom Penh International Airport,KH-8,AS
+LOS,0.03565937359026383,Lagos,Murtala Muhammed International Airport,NG-LA,AF
+OPO,0.035502632367352405,Porto,Francisco de Sá Carneiro Airport,PT-13,EU
+SRG,0.035414559697325876,Semarang-Java Island,Achmad Yani Airport,ID-JT,AS
+CLE,0.03522735257666332,Cleveland,Cleveland Hopkins International Airport,US-OH,NA
+LKO,0.03518010827895002,Lucknow,Chaudhary Charan Singh International Airport,IN-UP,AS
+OKJ,0.03509586542716747,Okayama City,Okayama Airport,JP-33,AS
+HDY,0.03491908431516566,Hat Yai,Hat Yai International Airport,TH-90,AS
+SDJ,0.034663491934655455,Sendai,Sendai Airport,JP-04,AS
+RAK,0.0345956810403143,Marrakech,Menara Airport,MA-MAR,AF
+LIM,0.03410063852358025,Lima,Jorge Chávez International Airport,PE-LIM,SA
+BUF,0.034012520115722755,Buffalo,Buffalo Niagara International Airport,US-NY,NA
+BFS,0.033722179119512474,Belfast,Belfast International Airport,GB-NIR,EU
+VIX,0.033584510387716704,Vitória,Eurico de Aguiar Salles Airport,BR-ES,SA
+PTY,0.03336653139614887,Tocumen,Tocumen International Airport,PA-8,NA
+KCZ,0.03190138063360137,Nankoku,Kōchi Ryōma Airport,JP-39,AS
+CGN,0.0318559955899782,Cologne,Cologne Bonn Airport,DE-NW,EU
+AOJ,0.03161772901562809,Aomori,Aomori Airport,JP-02,AS
+CJB,0.0315813494519932,Coimbatore,Coimbatore International Airport,IN-TN,AS
+YNT,0.031486848029070424,Yantai,Yantai Penglai International Airport,CN-37,AS
+SAN,0.03121322846631769,San Diego,San Diego International Airport,US-CA,NA
+ISB,0.0311294960006121,Islamabad,New Islamabad International Airport,PK-PB,AS
+HET,0.03103075376606479,Hohhot,Baita International Airport,CN-15,AS
+ABZ,0.03007474274715427,Aberdeen,Aberdeen Dyce Airport,GB-SCT,EU
+LIN,0.029887444853062384,Milan,Milano Linate Airport,IT-25,EU
+AXT,0.029841390941368395,Akita,Akita Airport,JP-05,AS
+PDG,0.029786432740015245,Ketaping/Padang - Sumatra Island,Minangkabau International Airport,ID-SB,AS
+PKU,0.02964241479364227,Pekanbaru-Sumatra Island,Sultan Syarif Kasim Ii (Simpang Tiga) Airport,ID-RI,AS
+MPL,0.029479789564901826,Montpellier/Méditerranée,Montpellier-Méditerranée Airport,FR-OCC,EU
+AKL,0.029203563391788645,Auckland,Auckland International Airport,NZ-AUK,OC
+BNE,0.02916336173430767,Brisbane,Brisbane International Airport,AU-QLD,OC
+SJU,0.029150228767671593,San Juan,Luis Munoz Marin International Airport,PR-U-A,NA
+PIT,0.028565823806419033,Pittsburgh,Pittsburgh International Airport,US-PA,NA
+DMM,0.028170823548354984,Ad Dammam,King Fahd International Airport,SA-04,AS
+SVQ,0.028084307017421373,Sevilla,Sevilla Airport,ES-AN,EU
+STL,0.027797454344851147,St Louis,St Louis Lambert International Airport,US-MO,NA
+KRT,0.02765780742261814,Khartoum,Khartoum International Airport,SD-03,AF
+TRV,0.027229033356570786,Thiruvananthapuram,Trivandrum International Airport,IN-KL,AS
+TAS,0.027161720053434757,Tashkent,Tashkent International Airport,UZ-TO,AS
+BLQ,0.026862127586980367,Bologna,Bologna Guglielmo Marconi Airport,IT-45,EU
+BWI,0.026775340158481487,Baltimore,Baltimore/Washington International Thurgood Marshall Airport,US-MD,NA
+TIP,0.026654565742931347,Tripoli,Tripoli International Airport,LY-TB,AF
+BDJ,0.0265951321113449,Banjarmasin-Borneo Island,Syamsudin Noor Airport,ID-KS,AS
+PEN,0.026469556297463837,Penang,Penang International Airport,MY-07,AS
+NCL,0.02639013840574478,Newcastle,Newcastle Airport,GB-ENG,EU
+BIO,0.026129968436532924,Bilbao,Bilbao Airport,ES-PV,EU
+MID,0.026106381101538623,Mérida,Licenciado Manuel Crescencio Rejon Int Airport,MX-YUC,NA
+BBI,0.02538975493014417,Bhubaneswar,Biju Patnaik Airport,IN-OR,AS
+UBJ,0.025066346394363115,Ube,Yamaguchi Ube Airport,JP-35,AS
+LXA,0.02502051990515164,Lhasa,Lhasa Gonggar Airport,CN-54,AS
+PPS,0.024900857010748845,Puerto Princesa City,Puerto Princesa Airport,PH-PLW,AS
+YYC,0.024887658769122356,Calgary,Calgary International Airport,CA-AB,NA
+OVB,0.024716755505027055,Novosibirsk,Tolmachevo Airport,RU-NVS,AS
+IKA,0.02463882316679522,Tehran,Imam Khomeini International Airport,IR-07,AS
+SDQ,0.024597719826875974,Santo Domingo,Las Américas International Airport,DO-01,NA
+CCS,0.024568733265651566,Caracas,Simón Bolívar International Airport,VE-X,SA
+TOY,0.024541526356202326,Toyama,Toyama Airport,JP-16,AS
+AQP,0.024312702540768893,Arequipa,Rodríguez Ballón International Airport,PE-ARE,SA
+MDW,0.024203477011257912,Chicago,Chicago Midway International Airport,US-IL,NA
+LHE,0.024175331744544115,Lahore,Alama Iqbal International Airport,PK-PB,AS
+LGA,0.0240383969017387,New York,La Guardia Airport,US-NY,NA
+KRR,0.023910850976619602,Krasnodar,Krasnodar Pashkovsky International Airport,RU-KDA,EU
+RIX,0.02388875955369263,Riga,Riga International Airport,LV-RIX,EU
+GYN,0.023583629791410488,Goiânia,Santa Genoveva Airport,BR-GO,SA
+CVG,0.02341648770022553,Cincinnati,Cincinnati Northern Kentucky International Airport,US-KY,NA
+LXR,0.02338490097125978,Luxor,Luxor International Airport,EG-KN,AF
+SOF,0.023384461342169982,Sofia,Sofia Airport,BG-23,EU
+WUX,0.023144525793761028,Wuxi,Sunan Shuofang International Airport,CN-32,AS
+KGD,0.023142558147307035,Kaliningrad,Khrabrovo Airport,RU-KGD,EU
+SKG,0.023098075049217348,Thessaloniki,Thessaloniki Macedonia International Airport,GR-54,EU
+KHI,0.022935434700563917,Karachi,Jinnah International Airport,PK-SD,AS
+ROC,0.022886794694240153,Rochester,Greater Rochester International Airport,US-NY,NA
+DKR,0.022822086206230385,Dakar,Léopold Sédar Senghor International Airport,SN-DK,AF
+VVO,0.022797095523006794,Vladivostok,Vladivostok International Airport,RU-PRI,AS
+ACC,0.022779437472560504,Accra,Kotoka International Airport,GH-AA,AF
+IXC,0.02268987800105904,Chandigarh,Chandigarh Airport,IN-CH,AS
+IDR,0.022333989818809963,Indore,Devi Ahilyabai Holkar Airport,IN-MP,AS
+BKI,0.022222431698311396,Kota Kinabalu,Kota Kinabalu International Airport,MY-12,AS
+LGW,0.022126635604448497,London,London Gatwick Airport,GB-ENG,EU
+MCI,0.02197909652509078,Kansas City,Kansas City International Airport,US-MO,NA
+MSY,0.021565564223851696,New Orleans,Louis Armstrong New Orleans International Airport,US-LA,NA
+DAM,0.021284478592633382,Damascus,Damascus International Airport,SY-DI,AS
+HUI,0.02127498577822151,Hue,Phu Bai Airport,VN-56,AS
+ALA,0.021183180375988542,Almaty,Almaty Airport,KZ-ALM,AS
+NAP,0.02111124567623146,Nápoli,Naples International Airport,IT-72,EU
+PUF,0.02083568164148686,Pau/Pyrénées (Uzein),Pau Pyrénées Airport,FR-NAQ,EU
+PER,0.02044038913186197,Perth,Perth International Airport,AU-WA,OC
+BEL,0.02036880473113689,Belém,Val de Cans/Júlio Cezar Ribeiro International Airport,BR-PA,SA
+CIA,0.020348950807636323,Rome,Ciampino–G. B. Pastine International Airport,IT-62,EU
+BTH,0.020323228527641568,Batam Island,Hang Nadim International Airport,ID-RI,AS
+PNK,0.020266178859493333,Pontianak-Borneo Island,Supadio Airport,ID-KB,AS
+MAO,0.020227316469253576,Manaus,Eduardo Gomes International Airport,BR-AM,SA
+MLA,0.020085837583076582,Valletta,Malta International Airport,MT-25,EU
+OAK,0.01991016348797736,Oakland,Metropolitan Oakland International Airport,US-CA,NA
+TKS,0.019809817883598035,Tokushima,Tokushima Airport/JMSDF Air Base,JP-36,AS
+PTP,0.019788594939348925,Pointe-à-Pitre,Pointe-à-Pitre Le Raizet,GP-U-A,NA
+PAT,0.019780999106696062,Patna,Lok Nayak Jayaprakash Airport,IN-BR,AS
+ASR,0.019577407327064256,Kayseri,Kayseri Erkilet Airport,TR-38,AS
+ORK,0.019531045629032517,Cork,Cork Airport,IE-C,EU
+YNJ,0.019209224633494393,Yanji,Yanji Chaoyangchuan Airport,CN-22,AS
+RUN,0.0189152636833938,St Denis,Roland Garros Airport,RE-U-A,AF
+USN,0.018894975223006538,Ulsan,Ulsan Airport,KR-31,AS
+BNA,0.018821012631649148,Nashville,Nashville International Airport,US-TN,NA
+ZAM,0.018799075780067898,Zamboanga City,Zamboanga International Airport,PH-ZAS,AS
+SOC,0.018700858197493564,Sukarata(Solo)-Java Island,Adi Sumarmo Wiryokusumo Airport,ID-JT,AS
+MLE,0.018396745496112143,Malé,Malé International Airport,MV-MLE,AS
+HRG,0.01838816007827515,Hurghada,Hurghada International Airport,EG-BA,AF
+LGP,0.018371627715037198,Legazpi City,Legazpi City International Airport,PH-ALB,AS
+BES,0.01836524317373367,Brest/Guipavas,Brest Bretagne Airport,FR-BRE,EU
+BDQ,0.018361600318229088,Vadodara,Vadodara Airport,IN-GJ,AS
+IZO,0.018173153645555162,Izumo,Izumo Airport,JP-32,AS
+TZX,0.01814795660031565,Trabzon,Trabzon International Airport,TR-61,AS
+AGA,0.018104203369268212,Agadir,Al Massira Airport,MA-AGD,AF
+UKB,0.01806150795634831,Kobe,Kobe Airport,JP-28,AS
+KUH,0.01804427755259841,Kushiro,Kushiro Airport,JP-01,AS
+PGK,0.018042173438036158,Pangkal Pinang-Palaubangka Island,Pangkal Pinang (Depati Amir) Airport,ID-BB,AS
+PHC,0.018039681392413853,Port Harcourt,Port Harcourt International Airport,NG-RI,AF
+SJO,0.01798160820145822,San Jose,Juan Santamaria International Airport,CR-A,NA
+GZT,0.017953636637872195,Gaziantep,Gaziantep International Airport,TR-27,AS
+YOW,0.01774393832034682,Ottawa,Ottawa Macdonald-Cartier International Airport,CA-ON,NA
+XNN,0.01764163810695918,Xining,Xining Caojiabu Airport,CN-63,AS
+SYR,0.017520328713899747,Syracuse,Syracuse Hancock International Airport,US-NY,NA
+MBA,0.017510054380119766,Mombasa,Mombasa Moi International Airport,KE-300,AF
+OBO,0.017503697050617717,Obihiro,Tokachi-Obihiro Airport,JP-01,AS
+SZF,0.01720122021213688,Samsun,Samsun Çarşamba Airport,TR-55,AS
+IND,0.017192462299885136,Indianapolis,Indianapolis International Airport,US-IN,NA
+MCZ,0.017131011197410118,Maceió,Zumbi dos Palmares Airport,BR-AL,SA
+CGR,0.01696676274765474,Campo Grande,Campo Grande Airport,BR-MS,SA
+TGZ,0.016945725104475118,Tuxtla Gutiérrez,Angel Albino Corzo International Airport,MX-CHP,NA
+WEH,0.01684663778216844,Weihai,Weihai Airport,CN-37,AS
+HMO,0.0168148809498615,Hermosillo,General Ignacio P. Garcia International Airport,MX-SON,NA
+HER,0.016803175595351716,Heraklion,Heraklion International Nikos Kazantzakis Airport,GR-91,EU
+EVN,0.01676851885179098,Yerevan,Zvartnots International Airport,AM-ER,AS
+TFS,0.01661820684868298,Tenerife Island,Tenerife South Airport,ES-CN,EU
+DJB,0.016431063166323923,Jambi-Sumatra Island,Sultan Thaha Airport,ID-JA,AS
+KHV,0.016409961385231764,Khabarovsk,Khabarovsk-Novy Airport,RU-KHA,AS
+BEG,0.016354789062078767,Belgrade,Belgrade Nikola Tesla Airport,RS-00,EU
+CGP,0.01626613063890836,Chittagong,Shah Amanat International Airport,BD-2,AS
+TRN,0.016242270253193247,Torino,Turin Airport,IT-21,EU
+GYD,0.016222165219024753,Baku,Heydar Aliyev International Airport,AZ-BA,AS
+VNS,0.016186648209029153,Varanasi,Lal Bahadur Shastri Airport,IN-UP,AS
+RIC,0.01612633419313203,Richmond,Richmond International Airport,US-VA,NA
+IXE,0.01605278593316173,Mangalore,Mangalore International Airport,IN-KA,AS
+VLC,0.01605203837390068,Valencia,Valencia Airport,ES-V,EU
+VER,0.016050667994604084,Veracruz,General Heriberto Jara International Airport,MX-VER,NA
+MEM,0.01598150278853938,Memphis,Memphis International Airport,US-TN,NA
+AJU,0.01588235441391328,Aracaju,Santa Maria Airport,BR-SE,SA
+AUS,0.015857334088257513,Austin,Austin Bergstrom International Airport,US-TX,NA
+VTZ,0.015829191233475703,Visakhapatnam,Vishakhapatnam Airport,IN-AP,AS
+TLN,0.01578638354732509,Toulon/Hyères/Le Palyvestre,Toulon-Hyères Airport,FR-PAC,EU
+SJW,0.01574582691607107,Shijiazhuang,Shijiazhuang Daguocun International Airport,CN-13,AS
+BAV,0.015609318375995107,Baotou,Baotou Airport,CN-15,AS
+UTH,0.015604936186041973,Udon Thani,Udon Thani Airport,TH-41,AS
+ORF,0.015497622935640054,Norfolk,Norfolk International Airport,US-VA,NA
+HAJ,0.015153104580303056,Hannover,Hannover Airport,DE-NI,EU
+RGN,0.015141938076269179,Yangon,Yangon International Airport,MM-06,AS
+BGY,0.015141333539794632,Bergamo,Il Caravaggio International Airport,IT-25,EU
+PVR,0.014947960448639552,Puerto Vallarta,Licenciado Gustavo Díaz Ordaz International Airport,MX-JAL,NA
+IXJ,0.014941656159892625,Jammu,Jammu Airport,IN-JK,AS
+YHZ,0.014916707854853772,Halifax,Halifax / Stanfield International Airport,CA-NS,NA
+VSA,0.01472531618844064,Villahermosa,Carlos Rovirosa Pérez International Airport,MX-TAB,NA
+AMI,0.014710055655454357,Mataram-Lombok Island,Selaparang Airport,ID-NB,AS
+CUL,0.014690863927313003,Culiacán,Bachigualato Federal International Airport,MX-SIN,NA
+LTN,0.01465279270681441,London,London Luton Airport,GB-ENG,EU
+CUU,0.01457863814189897,Chihuahua,General Roberto Fierro Villalobos International Airport,MX-CHH,NA
+SXB,0.014571654315207128,Strasbourg,Strasbourg Airport,FR-GES,EU
+HAV,0.014533385382977326,Havana,José Martí International Airport,CU-03,NA
+BHX,0.014502366050691662,Birmingham,Birmingham International Airport,GB-ENG,EU
+TSA,0.014300402316069216,Taipei City,Taipei Songshan Airport,TW-TPE,AS
+ACA,0.01426836333730419,Acapulco,General Juan N Alvarez International Airport,MX-GRO,NA
+LPA,0.014212819997851178,Gran Canaria Island,Gran Canaria Airport,ES-CN,EU
+UDR,0.014174165894267121,Udaipur,Maharana Pratap Airport,IN-RJ,AS
+CEK,0.01406980041108119,Chelyabinsk,Chelyabinsk Balandino Airport,RU-CHE,EU
+LJU,0.013841254646628331,Ljubljana,Ljubljana Jože Pučnik Airport,SI-061,EU
+ZAG,0.013831956691082614,Zagreb,Zagreb Airport,HR-21,EU
+GYE,0.013718004206591528,Guayaquil,José Joaquín de Olmedo International Airport,EC-G,SA
+JPA,0.013584934310233221,João Pessoa,Presidente Castro Pinto International Airport,BR-PB,SA
+ABJ,0.013540351597320144,Abidjan,Port Bouet Airport,CI-01,AF
+DGT,0.013500408994908897,Dumaguete City,Sibulan Airport,PH-NER,AS
+YGJ,0.01332236566686995,Yonago,Miho Yonago Airport,JP-32,AS
+YIW,0.013278122735815301,Yiwu,Yiwu Airport,CN-33,AS
+SAT,0.013254535395094802,San Antonio,San Antonio International Airport,US-TX,NA
+STN,0.013216888732441645,London,London Stansted Airport,GB-ENG,EU
+STI,0.013133650237025396,Santiago,Cibao International Airport,DO-25,NA
+ASW,0.013072180015716972,Aswan,Aswan International Airport,EG-ASN,AF
+KYA,0.013006767201492297,Konya,Konya Airport,TR-42,AS
+IXA,0.012915316772276642,Agartala,Agartala Airport,IN-TR,AS
+MDC,0.012880730943080732,Manado-Celebes Island,Sam Ratulangi Airport,ID-SA,AS
+KIJ,0.012796990109695261,Niigata,Niigata Airport,JP-15,AS
+KRK,0.012548985201686458,Kraków,Kraków John Paul II International Airport,PL-MA,EU
+URT,0.012422644354772139,Surat Thani,Surat Thani Airport,TH-84,AS
+CLO,0.012385609114388685,Cali,Alfonso Bonilla Aragon International Airport,CO-VAC,SA
+MDE,0.012370734083775758,Medellín,Jose Maria Córdova International Airport,CO-ANT,SA
+SMF,0.012336986767733982,Sacramento,Sacramento International Airport,US-CA,NA
+ASB,0.012300795515678642,Ashgabat,Ashgabat International Airport,TM-A,AS
+MKE,0.012110726508125058,Milwaukee,General Mitchell International Airport,US-WI,NA
+IQT,0.01204876691092005,Iquitos,Coronel FAP Francisco Secada Vignetta International Airport,PE-LOR,SA
+ATQ,0.011964912929185445,Amritsar,Sri Guru Ram Dass Jee International Airport,IN-PB,AS
+NTE,0.011927520462729047,Nantes,Nantes Atlantique Airport,FR-PDL,EU
+TKG,0.011898865476125398,Bandar Lampung-Sumatra Island,Radin Inten II (Branti) Airport,ID-LA,AS
+COR,0.01189052158229531,Cordoba,Ingeniero Ambrosio Taravella Airport,AR-X,SA
+SJC,0.011883631515953952,San Jose,Norman Y. Mineta San Jose International Airport,US-CA,NA
+ULN,0.011729788147796905,Ulan Bator,Chinggis Khaan International Airport,MN-1,AS
+OVD,0.0116037424655544,Ranón,Asturias Airport,ES-O,EU
+SNA,0.011568906433822246,Santa Ana,John Wayne Airport-Orange County Airport,US-CA,NA
+CJS,0.01156713376505647,Ciudad Juárez,Abraham González International Airport,MX-CHH,NA
+RAO,0.01155808609293485,Ribeirão Preto,Leite Lopes Airport,BR-SP,SA
+YCU,0.011549164918654098,Yuncheng,Yuncheng Guangong Airport,CN-61,AS
+RPR,0.011291722188274123,Raipur,Raipur Airport,IN-CT,AS
+PEE,0.011234741423527983,Perm,Bolshoye Savino Airport,RU-PER,EU
+SIP,0.011229817192027092,Simferopol,Simferopol International Airport,UA-43,EU
+PIU,0.011217040862098848,Piura,Capitán FAP Guillermo Concha Iberico International Airport,PE-PIU,SA
+MVD,0.01117718644666399,Montevideo,Carrasco International /General C L Berisso Airport,UY-CA,SA
+DAR,0.01116043673469358,Dar es Salaam,Julius Nyerere International Airport,TZ-02,AF
+NHA,0.011145052563623192,Nha Trang,Nha Trang Air Base,VN-34,AS
+YEG,0.011141493367039401,Edmonton,Edmonton International Airport,CA-AB,NA
+IKT,0.011093522454990179,Irkutsk,Irkutsk Airport,RU-IRK,AS
+PIK,0.01100873367081212,Glasgow,Glasgow Prestwick Airport,GB-SCT,EU
+NYO,0.010991924041559131,Stockholm / Nyköping,Stockholm Skavsta Airport,SE-D,EU
+SAW,0.010988796509209364,Istanbul,Sabiha Gökçen International Airport,TR-34,AS
+BKS,0.010961566429202207,Bengkulu-Sumatra Island,Fatmawati Soekarno Airport,ID-BE,AS
+KUF,0.010757244123033027,Samara,Kurumoch International Airport,RU-SAM,EU
+BHO,0.010718402761387358,Bhopal,Raja Bhoj International Airport,IN-MP,AS
+ACE,0.010716162292569442,Lanzarote Island,Lanzarote Airport,ES-CN,EU
+KIN,0.01063407612349554,Kingston,Norman Manley International Airport,JM-01,NA
+IXM,0.01058009706623253,Madurai,Madurai Airport,IN-TN,AS
+CFE,0.010564765362817918,Clermont-Ferrand/Auvergne,Clermont-Ferrand Auvergne Airport,FR-ARA,EU
+UDI,0.01054565139649144,Uberlândia,Ten. Cel. Aviador César Bombonato Airport,BR-MG,SA
+KWJ,0.01045738126343776,Gwangju,Gwangju Airport,KR-29,AS
+TAM,0.010454643981042344,Tampico,General Francisco Javier Mina International Airport,MX-TAM,NA
+UFA,0.010433456720368661,Ufa,Ufa International Airport,RU-BA,EU
+CIX,0.010423821767383434,Chiclayo,Capitan FAP Jose A Quinones Gonzales International Airport,PE-LAM,SA
+HPH,0.010262147094630802,Haiphong,Cat Bi International Airport,VN-61,AS
+HSG,0.010257002656770875,Saga,Saga Airport,JP-41,AS
+YIH,0.010181119051469456,Yichang,Yichang Sanxia Airport,CN-42,AS
+VII,0.010180414752417932,Vinh,Vinh Airport,VN-26,AS
+UUS,0.010119028646103034,Yuzhno-Sakhalinsk,Yuzhno-Sakhalinsk Airport,RU-SAK,AS
+ASU,0.010065108228954012,Asunción,Silvio Pettirossi International Airport,PY-11,SA
+OAX,0.00995741203392686,Oaxaca,Xoxocotlán International Airport,MX-OAX,NA
+JJN,0.009884924539251716,Quanzhou,Quanzhou Jinjiang International Airport,CN-35,AS
+NUE,0.009858276902410923,Nuremberg,Nuremberg Airport,DE-BY,EU
+PNR,0.009836208156849269,Pointe Noire,Pointe Noire Airport,CG-5,AF
+DLA,0.009814670855389673,Douala,Douala International Airport,CM-LT,AF
+TTJ,0.00979776038344704,Tottori,Tottori Airport,JP-31,AS
+ZHA,0.009778941677168307,Zhanjiang,Zhanjiang Airport,CN-44,AS
+CPQ,0.009773605966650112,Campinas,Amarais Airport,BR-SP,SA
+UBP,0.009685608085594155,Ubon Ratchathani,Ubon Ratchathani Airport,TH-34,AS
+TIA,0.00965912068258623,Tirana,Tirana International Airport Mother Teresa,AL-11,EU
+DIY,0.00963683042342156,Diyarbakir,Diyarbakir Airport,TR-21,AS
+UIO,0.009617023630646204,Quito,Mariscal Sucre International Airport,EC-P,SA
+TRU,0.009520879151559858,Trujillo,Capitan FAP Carlos Martinez De Pinillos International Airport,PE-LAL,SA
+KIV,0.009517702196045752,Chişinău,Chişinău International Airport,MD-C,EU
+BRS,0.009511667673227198,Bristol,Bristol Airport,GB-ENG,EU
+MDZ,0.009508439695264825,Mendoza,El Plumerillo Airport,AR-M,SA
+BKO,0.009479817679408531,Bamako,Modibo Keita International Airport,ML-2,AF
+BTS,0.009420877924409932,Bratislava,M. R. Štefánik Airport,SK-BL,EU
+HOU,0.0093954927272063,Houston,William P Hobby Airport,US-TX,NA
+NST,0.009342506420720875,Nakhon Si Thammarat,Nakhon Si Thammarat Airport,TH-80,AS
+TAE,0.009325988805046315,Daegu,Daegu Airport,KR-27,AS
+KEF,0.009324686503493829,Reykjavík,Keflavik International Airport,IS-2,EU
+PVD,0.009296625032856887,Providence,Theodore Francis Green State Airport,US-RI,NA
+EZS,0.009124463676319028,Elazığ,Elazığ Airport,TR-23,AS
+CCJ,0.009100811717894786,Calicut,Calicut International Airport,IN-KL,AS
+KTW,0.009021087613324874,Katowice,Katowice International Airport,PL-SL,EU
+VTE,0.009004279118350111,Vientiane,Wattay International Airport,LA-VT,AS
+DUR,0.008948010604949541,Durban,King Shaka International Airport,ZA-NL,AF
+GOT,0.008903861000639668,Gothenburg,Gothenburg-Landvetter Airport,SE-Q,EU
+MLX,0.008895004303345444,Malatya,Malatya Erhaç Airport,TR-44,AS
+BEN,0.00887942300083211,Benghazi,Benina International Airport,LY-BA,AF
+CZX,0.008694963292536606,Changzhou,Changzhou Benniu Airport,CN-32,AS
+IXR,0.008589025583348397,Ranchi,Birsa Munda Airport,IN-JH,AS
+CTG,0.008581402278317718,Cartagena,Rafael Nuñez International Airport,CO-BOL,SA
+LYA,0.008553761823088757,Luoyang,Luoyang Airport,CN-41,AS
+LYG,0.008541379159863971,Lianyungang,Lianyungang Airport,CN-32,AS
+RTM,0.008540754975150944,Rotterdam,Rotterdam The Hague Airport,NL-ZH,EU
+PCL,0.00846548811161929,Pucallpa,Cap FAP David Abenzur Rengifo International Airport,PE-UCA,SA
+RXS,0.008448069121742452,Roxas City,Roxas Airport,PH-CAP,AS
+PGF,0.008426809498154775,Perpignan/Rivesaltes,Perpignan-Rivesaltes (Llabanère) Airport,FR-OCC,EU
+DLI,0.008321142390614766,Da Lat,Lien Khuong Airport,VN-35,AS
+TRC,0.008300900995483085,Torreón,Francisco Sarabia International Airport,MX-COA,NA
+SLA,0.008292049352603637,Salta,Martin Miguel De Guemes International Airport,AR-A,SA
+AUA,0.008262640393759013,Oranjestad,Queen Beatrix International Airport,AW-U-A,NA
+TFN,0.008246896671099457,Tenerife Island,Tenerife Norte Airport,ES-CN,EU
+OZC,0.008226420732345474,Ozamiz City,Labo Airport,PH-MSC,AS
+MLH,0.008103850800893042,,,,
+ANC,0.008102631505001123,Anchorage,Ted Stevens Anchorage International Airport,US-AK,NA
+VGO,0.008098872103650678,Vigo,Vigo Airport,ES-GA,EU
+ROV,0.008086706115670084,Rostov-on-Don,Platov International Airport,RU-ROS,EU
+BBU,0.008040658951937396,Bucharest,Băneasa International Airport,RO-B,EU
+OMA,0.0080353727983824,Omaha,Eppley Airfield,US-NE,NA
+RBA,0.008019826965568022,Rabat,Rabat-Salé Airport,MA-RBA,AF
+CPT,0.007993667092253132,Cape Town,Cape Town International Airport,ZA-WC,AF
+TPP,0.00798532176926503,Tarapoto,Cadete FAP Guillermo Del Castillo Paredes Airport,PE-SAM,SA
+GSO,0.007947708103212214,Greensboro,Piedmont Triad International Airport,US-NC,NA
+MHT,0.007931856590190023,Manchester,Manchester-Boston Regional Airport,US-NH,NA
+LGB,0.007916910013082257,Long Beach,Long Beach /Daugherty Field/ Airport,US-CA,NA
+VAN,0.007907275859549201,Van,Van Ferit Melen Airport,TR-65,AS
+LCG,0.007897320143245734,Culleredo,A Coruña Airport,ES-GA,EU
+FLR,0.007853625531292763,Firenze,Peretola Airport,IT-52,EU
+CGB,0.007819443427517059,Cuiabá,Marechal Rondon Airport,BR-MT,SA
+TNG,0.007805000620688007,Tangier,Ibn Batouta Airport,MA-TNG,AF
+IXU,0.007789208183367702,Aurangabad,Aurangabad Airport,IN-MM,AS
+TCQ,0.007788001117148169,Tacna,Coronel FAP Carlos Ciriani Santa Rosa International Airport,PE-TAC,SA
+BRE,0.007762682835447454,Bremen,Bremen Airport,DE-HB,EU
+SDF,0.007758066959039467,Louisville,Louisville Muhammad Ali International Airport,US-KY,NA
+MZT,0.007745783402276163,Mazatlán,General Rafael Buelna International Airport,MX-SIN,NA
+TLC,0.00774475576918332,Toluca,Licenciado Adolfo Lopez Mateos International Airport,MX-MEX,NA
+KKC,0.007667449549437655,Khon Kaen,Khon Kaen Airport,TH-40,AS
+WNP,0.00765994709331963,Naga,Naga Airport,PH-CAS,AS
+ENU,0.007642399986158899,Enegu,Akanu Ibiam International Airport,NG-EN,AF
+CNS,0.00760916981383486,Cairns,Cairns International Airport,AU-QLD,OC
+MLG,0.007489485270781415,Malang-Java Island,Abdul Rachman Saleh Airport,ID-JI,AS
+OUD,0.00745550790117433,Oujda,Angads Airport,MA-OUJ,AF
+CBO,0.007433087949037409,Cotabato City,Awang Airport,PH-MAG,AS
+NAS,0.007423254503278187,Nassau,Lynden Pindling International Airport,BS-NP,NA
+CTA,0.007413901321794536,Catania,Catania-Fontanarossa Airport,IT-82,EU
+HYN,0.0073165199105548195,Huangyan,Huangyan Luqiao Airport,CN-33,AS
+KPO,0.0072946791827003254,Pohang,Pohang Airport (G-815/K-3),KR-47,AS
+TRF,0.007266983819040229,Torp,"Sandefjord Airport, Torp",NO-07,EU
+BDL,0.007238786484098925,Hartford,Bradley International Airport,US-CT,NA
+MSQ,0.007219680384853433,Minsk,Minsk National Airport,BY-MI,EU
+SLP,0.007163642646798696,San Luis Potosí,Ponciano Arriaga International Airport,MX-SLP,NA
+LDB,0.007151453471908487,Londrina,Governador José Richa Airport,BR-PR,SA
+TJM,0.007139694062295532,Tyumen,Roshchino International Airport,RU-TYU,AS
+PAP,0.007132842742857304,Port-au-Prince,Toussaint Louverture International Airport,HT-OU,NA
+VCP,0.007117378106033634,Campinas,Viracopos International Airport,BR-SP,SA
+GDN,0.007092010739898957,Gdańsk,Gdańsk Lech Wałęsa Airport,PL-PM,EU
+BUR,0.0070556391615499425,Burbank,Bob Hope Airport,US-CA,NA
+COO,0.007045857279658008,Cotonou,Cadjehoun Airport,BJ-AQ,AF
+JOI,0.006887920047667362,Joinville,Lauro Carneiro de Loyola Airport,BR-SC,SA
+LJG,0.006874661388595937,Lijiang,Lijiang Airport,CN-53,AS
+NTG,0.006855890990735247,Nantong,Nantong Airport,CN-32,AS
+CME,0.006838490754052073,Ciudad del Carmen,Ciudad del Carmen International Airport,MX-CAM,NA
+CJA,0.006809465913077073,Cajamarca,Mayor General FAP Armando Revoredo Iglesias Airport,PE-CAJ,SA
+ASF,0.006787803029083106,Astrakhan,Astrakhan Airport,RU-AST,EU
+KBL,0.006775132648130344,Kabul,Hamid Karzai International Airport,AF-KAB,AS
+EIN,0.006763524549166511,Eindhoven,Eindhoven Airport,NL-NB,EU
+IOS,0.006759685123410741,Ilhéus,Bahia - Jorge Amado Airport,BR-BA,SA
+HTY,0.0067572908280834065,Hatay,Hatay Airport,TR-31,AS
+DYU,0.0067543795723908895,Dushanbe,Dushanbe Airport,TJ-RR,AS
+TSF,0.006746213662943035,Treviso,Treviso-Sant'Angelo Airport,IT-34,EU
+FRU,0.006740523784617314,Bishkek,Manas International Airport,KG-C,AS
+TTT,0.006683787789659279,Taitung City,Taitung Airport,TW-TTT,AS
+KAN,0.006630469288728347,Kano,Mallam Aminu International Airport,NG-KN,AF
+VRN,0.006625292325784238,Verona,Verona Villafranca Airport,IT-34,EU
+DNZ,0.006569853630786993,Denizli,Çardak Airport,TR-20,AS
+JUL,0.0065623198010933415,Juliaca,Inca Manco Capac International Airport,PE-PUN,SA
+YWG,0.006538226449536277,Winnipeg,Winnipeg / James Armstrong Richardson International Airport,CA-MB,NA
+BAQ,0.006518259447925057,Barranquilla,Ernesto Cortissoz International Airport,CO-ATL,SA
+THE,0.0065085680909540145,Teresina,Senador Petrônio Portela Airport,BR-PI,SA
+TNR,0.006358597979915337,Antananarivo,Ivato Airport,MG-T,AF
+OMS,0.006204145999008315,Omsk,Omsk Central Airport,RU-OMS,AS
+XUZ,0.006201740801463518,Xuzhou,Xuzhou Guanyin Airport,CN-32,AS
+BHJ,0.006198487305984046,Bhuj,Bhuj Airport,IN-GJ,AS
+IXL,0.006188252499545022,Leh,Leh Kushok Bakula Rimpochee Airport,IN-JK,AS
+TBS,0.006180455924014838,Tbilisi,Tbilisi International Airport,GE-TB,AS
+BHY,0.006178474820656588,Beihai,Beihai Airport,CN-45,AS
+BAX,0.0061583994540801434,Barnaul,Barnaul Airport,RU-ALT,AS
+BGW,0.006147161857545269,Baghdad,Baghdad International Airport,IQ-BG,AS
+TAP,0.006135955581837327,Tapachula,Tapachula International Airport,MX-CHP,NA
+NQN,0.0061060869295296305,Neuquen,Presidente Peron Airport,AR-Q,SA
+TSE,0.006055947117729832,Astana,Astana International Airport,KZ-AKM,AS
+KCH,0.006046599309731282,Kuching,Kuching International Airport,MY-13,AS
+MJV,0.006033878748473942,San Javier,San Javier Airport,ES-MU,EU
+GUA,0.005993179535621729,Guatemala City,La Aurora Airport,GT-GU,NA
+LBA,0.005981840179930531,Leeds,Leeds Bradford Airport,GB-ENG,EU
+PMO,0.0059359560498997155,Palermo,Falcone–Borsellino Airport,IT-82,EU
+GNY,0.005927370271485044,Şanlıurfa,Şanlıurfa GAP Airport,TR-63,AS
+YKS,0.0058933532982182735,Yakutsk,Yakutsk Airport,RU-SA,AS
+GOA,0.005864163244356346,Genova,Genoa Cristoforo Colombo Airport,IT-42,EU
+BGO,0.005863071292225852,Bergen,Bergen Airport Flesland,NO-12,EU
+ZCL,0.00585610539912973,Zacatecas,General Leobardo C. Ruiz International Airport,MX-ZAC,NA
+VOG,0.005854601551861016,Volgograd,Volgograd International Airport,RU-VGG,EU
+YQB,0.005846862547115528,Quebec,Quebec Jean Lesage International Airport,CA-QC,NA
+FSZ,0.005803089337171996,Makinohara / Shimada,Mt. Fuji Shizuoka Airport,JP-22,AS
+CLJ,0.005760688708934314,Cluj-Napoca,Cluj-Napoca International Airport,RO-CJ,EU
+REX,0.005748706952445115,Reynosa,General Lucio Blanco International Airport,MX-TAM,NA
+CIH,0.00571236644661588,Changzhi,Changzhi Airport,CN-14,AS
+DIB,0.005696098383757731,Dibrugarh,Dibrugarh Airport,IN-AS,AS
+LAP,0.0056920032441473145,La Paz,Manuel Márquez de León International Airport,MX-BCS,NA
+JRO,0.005684607271979281,Arusha,Kilimanjaro International Airport,TZ-26,AF
+TUG,0.00566450960311804,Tuguegarao City,Tuguegarao Airport,PH-CAG,AS
+RAJ,0.005631685509050133,Rajkot,Rajkot Airport,IN-GJ,AS
+SZG,0.005589788067830392,Salzburg,Salzburg Airport,AT-5,EU
+BTJ,0.005573871523097296,Banda Aceh,Sultan Iskandar Muda International Airport,ID-AC,AS
+KUN,0.005569022008686919,Kaunas,Kaunas International Airport,LT-KU,EU
+NRN,0.005539548938897854,Weeze,Weeze Airport,DE-NW,EU
+DAY,0.005521492625992996,Dayton,James M Cox Dayton International Airport,US-OH,NA
+GSE,0.00550533803035802,Gothenburg,Gothenburg City Airport,SE-Q,EU
+NJC,0.005439121604038921,Nizhnevartovsk,Nizhnevartovsk Airport,RU-KHM,AS
+GDX,0.00543684817167045,Magadan,Sokol Airport,RU-MAG,AS
+ZNZ,0.005436768729431107,Zanzibar,Abeid Amani Karume International Airport,TZ-07,AF
+LAO,0.005348451151961031,Laoag City,Laoag International Airport,PH-ILN,AS
+FIH,0.005315545213875561,Kinshasa,Ndjili International Airport,CD-KN,AF
+WRO,0.0052890663552450645,Wrocław,Copernicus Wrocław Airport,PL-DS,EU
+MXL,0.005286717823936415,Mexicali,General Rodolfo Sánchez Taboada International Airport,MX-BCN,NA
+POZ,0.005237935730681209,Poznań,Poznań-Ławica Airport,PL-WP,EU
+XIC,0.00519071597881815,Xichang,Xichang Qingshan Airport,CN-51,AS
+KJA,0.005190483302480842,Krasnoyarsk,Yemelyanovo Airport,RU-KYA,EU
+TXN,0.005157317024499619,Huangshan,Tunxi International Airport,CN-34,AS
+VKO,0.005129604282846367,Moscow,Vnukovo International Airport,RU-MOS,EU
+LZH,0.00506897087085556,Liuzhou,Liuzhou Bailian Airport,CN-45,AS
+POP,0.00505774482876975,Puerto Plata,Gregorio Luperon International Airport,DO-18,NA
+DTM,0.005000170678235438,Dortmund,Dortmund Airport,DE-NW,EU
+PEW,0.004994953614757547,Peshawar,Peshawar International Airport,PK-NW,AS
+AGU,0.004989065937054837,Aguascalientes,Jesús Terán Paredo International Airport,MX-AGU,NA
+VVI,0.004962417722824464,Santa Cruz,Viru Viru International Airport,BO-S,SA
+SVG,0.004943614499256843,Stavanger,Stavanger Airport Sola,NO-11,EU
+MWZ,0.004937018205182886,Mwanza,Mwanza Airport,TZ-18,AF
+ODS,0.004913556205948133,Odessa,Odessa International Airport,UA-51,EU
+MCX,0.00484741364812058,Makhachkala,Uytash Airport,RU-DA,EU
+KZN,0.0048371222419969495,Kazan,Kazan International Airport,RU-TA,EU
+KEJ,0.0047749492187080245,Kemerovo,Kemerovo Airport,RU-KEM,AS
+LCY,0.0046836597198819385,London,London City Airport,GB-ENG,EU
+OUA,0.004648830252750313,Ouagadougou,Ouagadougou Airport,BF-KAD,AF
+LBV,0.004622726179888348,Libreville,Libreville Leon M'ba International Airport,GA-1,AF
+SAV,0.004608993295048491,Savannah,Savannah Hilton Head International Airport,US-GA,NA
+KAD,0.004582231186519681,Kaduna,Kaduna Airport,NG-KD,AF
+FKS,0.004494472805224969,Sukagawa,Fukushima Airport,JP-07,AS
+DDG,0.004487415868482891,Dandong,Dandong Airport,CN-21,AS
+LFW,0.0044472185515306295,Lomé,Lomé-Tokoin Airport,TG-M,AF
+JDH,0.004443187673537463,Jodhpur,Jodhpur Airport,IN-RJ,AS
+SJJ,0.004403923035494639,Sarajevo,Sarajevo International Airport,BA-BIH,EU
+LUN,0.004374460630001797,Lusaka,Kenneth Kaunda International Airport,ZM-09,AF
+CKY,0.004322456718888312,Conakry,Conakry International Airport,GN-C,AF
+BGA,0.004306041245055958,Bucaramanga,Palonegro Airport,CO-SAN,SA
+SJP,0.004304347358823457,São José Do Rio Preto,Prof. Eribelto Manoel Reino State Airport,BR-SP,SA
+REN,0.00429947523116736,Orenburg,Orenburg Central Airport,RU-ORE,EU
+MIG,0.0042977251387349424,Mianyang,Mianyang Airport,CN-51,AS
+HUN,0.00424831193653219,Hualien City,Hualien Airport,TW-HUA,AS
+SGC,0.004222156280404676,Surgut,Surgut Airport,RU-KHM,AS
+MTT,0.004177979029162504,Minatitlán,Minatitlán/Coatzacoalcos National Airport,MX-VER,NA
+FNA,0.004166590563643546,Freetown,Lungi International Airport,SL-N,AF
+TOF,0.004142911067416266,Tomsk,Bogashevo Airport,RU-TOM,AS
+EMA,0.004137911180117526,Nottingham,East Midlands Airport,GB-ENG,EU
+FEZ,0.004134686047608915,Fes,Saïss Airport,MA-FES,AF
+LPL,0.004132019429587186,Liverpool,Liverpool John Lennon Airport,GB-ENG,EU
+BIR,0.004118885442941811,Biratnagar,Biratnagar Airport,NP-KO,AS
+PHS,0.004081618454376712,,Phitsanulok Airport,TH-65,AS
+CAG,0.004074376737376317,Cagliari,Cagliari Elmas Airport,IT-88,EU
+HIN,0.004058700826817918,Sacheon,Sacheon Air Base/Airport,KR-48,AS
+ERZ,0.004049838276337425,Erzurum,Erzurum International Airport,TR-25,AS
+GRR,0.004044268707504628,Grand Rapids,Gerald R. Ford International Airport,US-MI,NA
+NLD,0.004041303427281373,Nuevo Laredo,Quetzalcóatl International Airport,MX-TAM,NA
+HSN,0.004028170810105314,Zhoushan,Zhoushan Airport,CN-33,AS
+TNJ,0.003967751898766858,Tanjung Pinang-Bintan Island,Raja Haji Fisabilillah International Airport,ID-RI,AS
+PAZ,0.0039567145109158375,Poza Rica,El Tajín National Airport,MX-VER,NA
+LBC,0.003899260168123475,Lübeck,Lübeck Blankensee Airport,DE-SH,EU
+GAJ,0.0038842892240454896,Yamagata,Yamagata Airport,JP-06,AS
+KDI,0.0038836726454664072,Kendari-Celebes Island,Wolter Monginsidi Airport,ID-SG,AS
+TRZ,0.0038727406218013183,Tiruchirappally,Tiruchirapally Civil Airport Airport,IN-TN,AS
+MLM,0.00384820029182642,Morelia,General Francisco J. Mujica International Airport,MX-MIC,NA
+PKY,0.003789605440132182,Palangkaraya-Kalimantan Tengah,Tjilik Riwut Airport,ID-KT,AS
+DRW,0.0037829016530541715,Darwin,Darwin International Airport,AU-NT,OC
+ZYL,0.003778264720444846,Sylhet,Osmany International Airport,BD-6,AS
+ABQ,0.003760986809436484,Albuquerque,Albuquerque International Sunport,US-NM,NA
+YNZ,0.003737778140807113,Yancheng,Yancheng Airport,CN-32,AS
+WUS,0.003725426405935428,Wuyishan,Nanping Wuyishan Airport,CN-35,AS
+TUC,0.003697035167213758,San Miguel de Tucumán,Teniente Benjamin Matienzo Airport,AR-T,SA
+KHG,0.0036952869844734115,Kashgar,Kashgar Airport,CN-65,AS
+BMV,0.0036839075730208393,Buon Ma Thuot,Buon Ma Thuot Airport,VN-33,AS
+TYS,0.0036814136584985002,Knoxville,McGhee Tyson Airport,US-TN,NA
+ALP,0.0036164967176063323,Aleppo,Aleppo International Airport,SY-HL,AS
+TUS,0.003604221101774052,Tucson,Tucson International Airport,US-AZ,NA
+VLL,0.003594646250580369,Valladolid,Valladolid Airport,ES-CL,EU
+CBQ,0.003592090075971832,Calabar,Margaret Ekpo International Airport,NG-CR,AF
+LPB,0.003578342786888511,La Paz / El Alto,El Alto International Airport,BO-L,SA
+JMU,0.0035667273920964027,Jiamusi,Jiamusi Airport,CN-23,AS
+YYT,0.003550395186203259,St. John's,St. John's International Airport,CA-NL,NA
+KGL,0.0035408124280980058,Kigali,Kigali International Airport,RW-01,AF
+LEI,0.0034758619203753005,Almería,Almería International Airport,ES-AN,EU
+BQS,0.0034585761774698076,Blagoveschensk,Ignatyevo Airport,RU-AMU,AS
+VAS,0.0034476800689867693,Sivas,Sivas Nuri Demirağ Airport,TR-58,AS
+JDO,0.0034428430210279304,Juazeiro Do Norte,Orlando Bezerra de Menezes Airport,BR-CE,SA
+LYP,0.0034223481370985187,Faisalabad,Faisalabad International Airport,PK-PB,AS
+CRL,0.0034123852408588506,Brussels,Brussels South Charleroi Airport,BE-WHT,EU
+MSR,0.003382499333179023,Muş,Muş Airport,TR-49,AS
+WXN,0.0033585580641004587,Wanxian,Wanxian Airport,CN-50,AS
+MMK,0.00334605595595161,Murmansk,Murmansk Airport,RU-MUR,EU
+NUX,0.003332369707076288,Novy Urengoy,Novy Urengoy Airport,RU-YAN,AS
+KIS,0.0033161433506603277,Kisumu,Kisumu Airport,KE-600,AF
+DAT,0.0033072095949767677,Datong,Datong Airport,CN-14,AS
+GSP,0.0032970099718940826,Greenville,Greenville Spartanburg International Airport,US-SC,NA
+CGD,0.0032952210963139716,Changde,Changde Airport,CN-43,AS
+DSM,0.0032826715906620896,Des Moines,Des Moines International Airport,US-IA,NA
+IMF,0.0032768227314320386,Imphal,Imphal Airport,IN-MN,AS
+BRI,0.003273562186739576,Bari,Bari Karol Wojtyła Airport,IT-75,EU
+XRY,0.0032612456867241457,Jerez de la Forntera,Jerez Airport,ES-AN,EU
+SMR,0.0032365706773324066,Santa Marta,Simón Bolívar International Airport,CO-MAG,SA
+DGO,0.0032329372283003144,Durango,General Guadalupe Victoria International Airport,MX-DUR,NA
+MSN,0.0032281681682889696,Madison,Dane County Regional Truax Field,US-WI,NA
+ROB,0.0032171839792956014,Monrovia,Roberts International Airport,LR-MG,AF
+BNI,0.003215115990472861,Benin,Benin Airport,NG-ED,AF
+UIH,0.00320432621176836,Quy Nohn,Phu Cat Airport,VN-31,AS
+PKR,0.003188483372201789,Pokhara,Pokhara Airport,NP-GA,AS
+RNS,0.003169898861012155,Rennes/Saint-Jacques,Rennes-Saint-Jacques Airport,FR-BRE,EU
+POM,0.003136964341357573,Port Moresby,Port Moresby Jacksons International Airport,PG-NCD,OC
+BAL,0.0031194854791686266,Batman,Batman Airport,TR-72,AS
+TIR,0.003118946555244362,Tirupati,Tirupati Airport,IN-AP,AS
+CVM,0.003114724669888491,Ciudad Victoria,General Pedro Jose Mendez International Airport,MX-TAM,NA
+EBL,0.0031117539476666067,Arbil,Erbil International Airport,IQ-AR,AS
+SDR,0.003102815979820317,Santander,Santander Airport,ES-S,EU
+PNZ,0.003099173250688536,Petrolina,Senador Nilo Coelho Airport,BR-PE,SA
+LAD,0.0030833112563448672,Luanda,Quatro de Fevereiro Airport,AO-LUA,AF
+BZV,0.0030734239652956408,Brazzaville,Maya-Maya Airport,CG-12,AF
+HEA,0.003061550417534642,,Herat Airport,AF-HER,AS
+CEN,0.003040633501776857,Ciudad Obregón,Ciudad Obregón International Airport,MX-SON,NA
+SPU,0.0030221162913008914,Split,Split Airport,HR-17,EU
+CRD,0.003008474509607839,Comodoro Rivadavia,General E. Mosconi Airport,AR-U,SA
+IQQ,0.003006529059687457,Iquique,Diego Aracena Airport,CL-TA,SA
+OKC,0.0029518930666680987,Oklahoma City,Will Rogers World Airport,US-OK,NA
+TLL,0.0029498863543008236,Tallinn,Lennart Meri Tallinn Airport,EE-37,EU
+MDL,0.0029013186221590326,Mandalay,Mandalay International Airport,MM-04,AS
+MDG,0.002897739107250552,Mudanjiang,Mudanjiang Hailang International Airport,CN-23,AS
+KCM,0.0028706449658091326,Kahramanmaraş,Kahramanmaraş Airport,TR-46,AS
+CUC,0.0028602009502823877,Cúcuta,Camilo Daza International Airport,CO-NSA,SA
+MWX,0.002859484805728396,Piseo-ri (Muan),Muan International Airport,KR-46,AS
+UUD,0.00285020786655632,Ulan Ude,Ulan-Ude Airport (Mukhino),RU-BU,AS
+VNO,0.002846220468470051,Vilnius,Vilnius International Airport,LT-VL,EU
+ALY,0.0028167441847626318,Alexandria,El Nouzha Airport,EG-ALX,AF
+PLZ,0.0028163433835245444,Port Elizabeth,Port Elizabeth Airport,ZA-EC,AF
+VCA,0.0028136202984383463,Can Tho,Can Tho International Airport,VN-02,AS
+NKC,0.0028123755705973252,Nouakchott,Nouakchott–Oumtounsy International Airport,MR-NKC,AF
+ZLO,0.0028098296598624284,Manzanillo,Playa De Oro International Airport,MX-COL,NA
+PPB,0.00279772796377753,Presidente Prudente,Presidente Prudente Airport,BR-SP,SA
+LIG,0.002794004277625217,Limoges/Bellegarde,Limoges Airport,FR-NAQ,EU
+BHM,0.0027746925305111025,Birmingham,Birmingham-Shuttlesworth International Airport,US-AL,NA
+STW,0.002767352397635814,Stavropol,Stavropol Shpakovskoye Airport,RU-STA,EU
+ADF,0.0027529487544086795,Adıyaman,Adıyaman Airport,TR-02,AS
+SOU,0.002730097680046839,Southampton,Southampton Airport,GB-ENG,EU
+ADL,0.0027037702264778307,Adelaide,Adelaide International Airport,AU-SA,OC
+HRE,0.0026985185769551334,Harare,Robert Gabriel Mugabe International Airport,ZW-HA,AF
+TUL,0.002683123566948331,Tulsa,Tulsa International Airport,US-OK,NA
+PEI,0.002679599769262353,Pereira,Matecaña International Airport,CO-RIS,SA
+AYP,0.0026746858783393,Ayacucho,Coronel FAP Alfredo Mendivil Duarte Airport,PE-AYA,SA
+LIT,0.0026589602529264456,Little Rock,Bill & Hillary Clinton National Airport/Adams Field,US-AR,NA
+TRS,0.002627512706465107,Trieste,Trieste–Friuli Venezia Giulia Airport,IT-36,EU
+SKP,0.0026029971540337815,Skopje,Skopje International Airport,MK-004,EU
+CTM,0.0025857410154744853,Chetumal,Chetumal International Airport,MX-ROO,NA
+ORN,0.00258132064505201,Oran,Es Senia Airport,DZ-31,AF
+GRV,0.002531585094431521,Grozny,Grozny North Airport,RU-CE,EU
+SSG,0.0025231898632538385,Malabo,Malabo Airport,GQ-BN,AF
+ELP,0.002503775492468052,El Paso,El Paso International Airport,US-TX,NA
+TGO,0.0024937053486762117,Tongliao,Tongliao Airport,CN-15,AS
+XIL,0.002485008000202904,Xilinhot,Xilinhot Airport,CN-15,AS
+TBZ,0.0024725209205187504,Tabriz,Tabriz International Airport,IR-01,AS
+AMQ,0.0024582884541931582,Ambon,"Pattimura Airport, Ambon",ID-MA,AS
+TSR,0.0024206742533557923,Timişoara,Timişoara Traian Vuia Airport,RO-TM,EU
+LMM,0.002401876254574109,Los Mochis,Valle del Fuerte International Airport,MX-SIN,NA
+NSI,0.002399649996583597,Yaoundé,Yaoundé Nsimalen International Airport,CM-CE,AF
+KRL,0.002350314671010323,Korla,Korla Airport,CN-65,AS
+YQT,0.002306367331114778,Thunder Bay,Thunder Bay Airport,CA-ON,NA
+RNO,0.0023024520182647334,Reno,Reno Tahoe International Airport,US-NV,NA
+AJL,0.0023016360901613186,Aizawl,Lengpui Airport,IN-MZ,AS
+YIN,0.002299193219402973,Yining,Yining Airport,CN-65,AS
+CXJ,0.0022568613196469745,Caxias Do Sul,Hugo Cantergiani Regional Airport,BR-RS,SA
+JDZ,0.0022477783486274383,Jingdezhen,Jingdezhen Airport,CN-36,AS
+NOZ,0.0022443872607222914,Novokuznetsk,Spichenkovo Airport,RU-KEM,EU
+OGZ,0.0022443872607222914,Beslan,Beslan Airport,RU-SE,EU
+CPE,0.002211232640702221,Campeche,Ingeniero Alberto Acuña Ongay International Airport,MX-CAM,NA
+PXU,0.0022059557831474175,Pleiku,Pleiku Airport,VN-30,AS
+VST,0.0022050436710974175,Stockholm / Västerås,Stockholm Västerås Airport,SE-U,EU
+NDJ,0.0021981256052674425,N'Djamena,N'Djamena International Airport,TD-CB,AF
+JGA,0.00219369249074719,Jamnagar,Jamnagar Airport,IN-GJ,AS
+VAR,0.002184469678393808,Varna,Varna Airport,BG-03,EU
+FNJ,0.002164493574162152,Pyongyang,Pyongyang Sunan International Airport,KP-01,AS
+SKD,0.0021631110761746175,Samarkand,Samarkand Airport,UZ-SA,AS
+IXS,0.0021350793367599374,Silchar,Silchar Airport,IN-AS,AS
+RZE,0.0021332225620066536,Rzeszów,Rzeszów-Jasionka Airport,PL-PK,EU
+BHV,0.0021295128794793783,Bahawalpur,Bahawalpur Airport,PK-PB,AS
+GNB,0.002127941394070798,Grenoble/Saint-Geoirs,Grenoble-Isère Airport,FR-ARA,EU
+PSE,0.0021232764182584907,Ponce,Mercedita Airport,PR-U-A,NA
+BUS,0.002119249613430352,Batumi,Batumi International Airport,GE-AJ,AS
+PNA,0.0021182240366576233,Pamplona,Pamplona Airport,ES-NA,EU
+HLD,0.0021133231702240574,Hailar,Dongshan Airport,CN-15,AS
+CLQ,0.0021019233678462035,Colima,Licenciado Miguel de la Madrid Airport,MX-COL,NA
+BTK,0.0020814883341653267,Bratsk,Bratsk Airport,RU-IRK,AS
+FRL,0.002078701518807291,Forlì (FC),Forlì Airport,IT-45,EU
+AAR,0.002068262253951403,Aarhus,Aarhus Airport,DK-82,EU
+JSR,0.0020405190736096923,Jashahor,Jessore Airport,BD-4,AS
+EAS,0.002029109553550179,Hondarribia,San Sebastian Airport,ES-PV,EU
+GAY,0.0020040625608399587,,Gaya Airport,IN-BR,AS
+LLW,0.0019794803954896745,Lilongwe,Lilongwe International Airport,MW-LI,AF
+WDH,0.0019778119279255657,Windhoek,Hosea Kutako International Airport,NA-KH,AF
+KVD,0.001975210185246823,Ganja,Ganja Airport,AZ-GA,AS
+NDG,0.0019567571047520715,Qiqihar,Qiqihar Sanjiazi Airport,CN-23,AS
+LBD,0.0019513528993996276,Khudzhand,Khudzhand Airport,TJ-SU,AS
+BHU,0.0019210108154704697,Bhavnagar,Bhavnagar Airport,IN-GJ,AS
+HPN,0.0019209552056760337,White Plains,Westchester County Airport,US-NY,NA
+ENH,0.0019135008901230988,Enshi,Enshi Airport,CN-42,AS
+NIM,0.001898659064195285,Niamey,Diori Hamani International Airport,NE-8,AF
+TDX,0.0018945215157814,,Trat Airport,TH-23,AS
+RAI,0.0018719130526602124,Praia,Praia International Airport,CV-S,AF
+LEN,0.0018549747940236339,León,Leon Airport,ES-CL,EU
+UET,0.0018536799574470075,Quetta,Quetta International Airport,PK-BA,AS
+LCJ,0.0018453581576043376,Łódź,Łódź Władysław Reymont Airport,PL-LD,EU
+REU,0.0018328401519981385,Reus,Reus Air Base,ES-CT,EU
+ILM,0.001819866952168403,Wilmington,Wilmington International Airport,US-NC,NA
+ASM,0.0017919613243596588,Asmara,Asmara International Airport,ER-SK,AF
+BHK,0.0017897000028596066,Bukhara,Bukhara Airport,UZ-BU,AS
+XFN,0.0017858094692714266,Xiangfan,Xiangyang Liuji Airport,CN-42,AS
+PBC,0.0017830905497542293,Puebla,Hermanos Serdán International Airport,MX-PUE,NA
+LEX,0.001780161747543696,Lexington,Blue Grass Airport,US-KY,NA
+AAL,0.0017732320201372387,Aalborg,Aalborg Airport,DK-81,EU
+CID,0.0017670857798495199,Cedar Rapids,The Eastern Iowa Airport,US-IA,NA
+ZAZ,0.001742832320129728,Zaragoza,Zaragoza Air Base,ES-AR,EU
+SLW,0.001731533849192779,Saltillo,Plan De Guadalupe International Airport,MX-COA,NA
+PAD,0.0017127541458007434,Paderborn,Paderborn Lippstadt Airport,DE-NW,EU
+FMO,0.0017074707525536192,Münster,Münster Osnabrück Airport,DE-NW,EU
+MUX,0.001674725358030149,Multan,Multan International Airport,PK-PB,AS
+JOS,0.0016696220915308757,Jos,Yakubu Gowon Airport,NG-PL,AF
+KMS,0.0016629660702814908,Kumasi,Kumasi Airport,GH-AH,AF
+GRB,0.001648333439521421,Green Bay,Austin Straubel International Airport,US-WI,NA
+HJJ,0.0016432798386971648,Huaihua,Zhijiang Airport,CN-43,AS
+ICT,0.0016409220036047723,Wichita,Wichita Eisenhower National Airport,US-KS,NA
+AOE,0.0016217576051886784,Eskişehir,Anadolu Airport,TR-26,AS
+NZH,0.0016156814469936442,,Manzhouli Xijiao Airport,CN-15,AS
+MTR,0.0015989064825804311,Montería,Los Garzones Airport,CO-COR,SA
+ABE,0.0015944439125715748,Allentown,Lehigh Valley International Airport,US-PA,NA
+DED,0.0015643483618752452,Dehradun,Dehradun Airport,IN-UL,AS
+EOH,0.0015613193913190937,Medellín,Enrique Olaya Herrera Airport,CO-ANT,SA
+COS,0.0015433675013455384,Colorado Springs,City of Colorado Springs Municipal Airport,US-CO,NA
+ANR,0.001537330542851545,Antwerp,Antwerp International Airport (Deurne),BE-VAN,EU
+JIB,0.0015343054468393014,Djibouti City,Djibouti-Ambouli Airport,DJ-DJ,AF
+AGT,0.0015296267898415872,Ciudad del Este,Guarani International Airport,PY-10,SA
+CHC,0.0015234756987109188,Christchurch,Christchurch International Airport,NZ-CAN,OC
+YXE,0.0015163469376832106,Saskatoon,Saskatoon John G. Diefenbaker International Airport,CA-SK,NA
+HEK,0.0014717856308877897,Heihe,Heihe Airport,CN-23,AS
+SAP,0.0014697166093334824,San Pedro Sula,Ramón Villeda Morales International Airport,HN-CR,NA
+HTN,0.0014678181355135544,Hotan,Hotan Airport,CN-65,AS
+TMP,0.0014644044337154272,Tampere / Pirkkala,Tampere-Pirkkala Airport,FI-LS,EU
+BRQ,0.0014617620833977663,Brno,Brno-Tuřany Airport,CZ-JM,EU
+PSR,0.0014481970238990893,Pescara,Pescara International Airport,IT-65,EU
+FSD,0.0014476305849145943,Sioux Falls,Joe Foss Field Airport,US-SD,NA
+GRZ,0.0014416799924754642,Graz,Graz Airport,AT-6,EU
+BZG,0.0014300533341848887,Bydgoszcz,Bydgoszcz Ignacy Jan Paderewski Airport,PL-KP,EU
+AOI,0.0014237114635132775,Ancona,Ancona Falconara Airport,IT-57,EU
+VBS,0.001417123024847089,Montichiari (BS),Brescia Airport,IT-25,EU
+PMF,0.001410499103585594,Parma,Parma Airport,IT-45,EU
+SGF,0.0014080426615795671,Springfield,Springfield Branson National Airport,US-MO,NA
+BDO,0.001400918246396432,Bandung-Java Island,Husein Sastranegara International Airport,ID-JB,AS
+PLW,0.0014008089255578282,Palu-Celebes Island,Mutiara Airport,ID-ST,AS
+SFB,0.0013962295585110418,Orlando,Orlando Sanford International Airport,US-FL,NA
+GUW,0.001395860061197296,Atyrau,Atyrau Airport,KZ-ATY,AS
+DMU,0.0013914808645925092,Dimapur,Dimapur Airport,IN-NL,AS
+YQR,0.0013860240085027398,Regina,Regina International Airport,CA-SK,NA
+LNZ,0.001372975048150149,Linz,Linz Hörsching Airport,AT-4,EU
+NMA,0.001360841476578778,Namangan,Namangan Airport,UZ-NG,AS
+ELS,0.0013546900121109706,East London,Ben Schoeman Airport,ZA-EC,AF
+YXU,0.0013503809138213363,London,London Airport,CA-ON,NA
+TPQ,0.0013413398866281012,Tepic,Amado Nervo National Airport,MX-NAY,NA
+EUN,0.001338305175041854,El Aaiún,Hassan I Airport,EH-U-A,AF
+FNI,0.0013248787744670754,Nîmes/Garons,Nîmes-Arles-Camargue Airport,FR-OCC,EU
+ISE,0.001311731488289003,Isparta,Süleyman Demirel International Airport,TR-32,AS
+FAR,0.001311105751109487,Fargo,Hector International Airport,US-ND,NA
+HBX,0.0013063578186458535,Hubli,Hubli Airport,IN-KA,AS
+MAM,0.001298931672023218,Matamoros,General Servando Canales International Airport,MX-TAM,NA
+KDH,0.0012909851572705522,,Kandahar Airport,AF-KAN,AS
+HTA,0.001279451210732363,Chita,Chita-Kadala Airport,RU-CHI,EU
+CIF,0.0012771534144185859,Chifeng,Chifeng Airport,CN-15,AS
+MGF,0.0012722209436223375,Maringá,Regional de Maringá - Sílvio Name Júnior Airport,BR-PR,SA
+FBM,0.0012622714310578376,Lubumbashi,Lubumbashi International Airport,CD-KA,AF
+LEJ,0.001260394087180483,Leipzig,Leipzig/Halle Airport,DE-SN,EU
+SKZ,0.001247311988834654,Mirpur Khas,Sukkur Airport,PK-SD,AS
+GEO,0.0012406641525578577,Georgetown,Cheddi Jagan International Airport,GY-DE,SA
+BFN,0.0012328697941652589,Bloemfontain,Bram Fischer International Airport,ZA-FS,AF
+BOJ,0.0012181073393316977,Burgas,Burgas Airport,BG-02,EU
+RES,0.0012138384451509943,Resistencia,Resistencia International Airport,AR-H,SA
+ATZ,0.001194997959072186,Assiut,Assiut International Airport,EG-WAD,AF
+LZY,0.001194472959888948,Nyingchi,Nyingchi Airport,CN-54,AS
+CAE,0.0011719181605328588,Columbia,Columbia Metropolitan Airport,US-SC,NA
+MZL,0.0011694014600480696,Manizales,La Nubia Airport,CO-CAL,SA
+MYY,0.001163283198538867,Miri,Miri Airport,MY-13,AS
+ANF,0.0011578511680632175,Antofagasta,Andrés Sabella Gálvez International Airport,CL-AN,SA
+DND,0.0011435719984155268,Dundee,Dundee Airport,GB-SCT,EU
+RJA,0.0011389873775731196,Rajahmundry,Rajahmundry Airport,IN-AP,AS
+FAT,0.0011284547584046178,Fresno,Fresno Yosemite International Airport,US-CA,NA
+TKQ,0.0011244302496459246,Kigoma,Kigoma Airport,TZ-08,AF
+CXB,0.001107185330570637,Cox's Bazar,Cox's Bazar Airport,BD-2,AS
+LWO,0.0011058587674704912,Lviv,Lviv International Airport,UA-46,EU
+PSO,0.0011001480623182847,Pasto,Antonio Narino Airport,CO-NAR,SA
+TGD,0.0010985631952367125,Podgorica,Podgorica Airport,ME-16,EU
+PIA,0.0010950006775153343,Peoria,General Wayne A. Downing Peoria International Airport,US-IL,NA
+PEG,0.0010880633439809273,Perugia,Perugia San Francesco d'Assisi – Umbria International Airport,IT-55,EU
+RMI,0.0010873373084244742,Rimini,Federico Fellini International Airport,IT-45,EU
+BRN,0.0010861656338354564,Bern,Bern Belp Airport,CH-BE,EU
+PFB,0.001061022419490909,Passo Fundo,Lauro Kurtz Airport,BR-RS,SA
+CWL,0.0010581927669490732,Cardiff,Cardiff International Airport,GB-WLS,EU
+CIT,0.0010450857007803238,Shymkent,Shymkent Airport,KZ-YUZ,AS
+SZZ,0.0010351950909102126,Goleniow,"Szczecin-Goleniów ""Solidarność"" Airport",PL-ZP,EU
+JAL,0.0010309192794324407,Xalapa,El Lencero Airport,MX-VER,NA
+VUP,0.0010284671641068721,Valledupar,Alfonso López Pumarejo Airport,CO-CES,SA
+DNH,0.0010180254146711087,Dunhuang,Dunhuang Airport,CN-62,AS
+BGF,0.0010137416331573723,Bangui,Bangui M'Poko International Airport,CF-MP,AF
+USQ,0.0010076172269619654,Uşak,Uşak Airport,TR-64,AS
+YSJ,0.0010035362167174489,Saint John,Saint John Airport,CA-NB,NA
+BOI,0.0009772334886029022,Boise,Boise Air Terminal/Gowen Field,US-ID,NA
+EXT,0.0009695785472939589,Exeter,Exeter International Airport,GB-ENG,EU
+DEA,0.0009694352822037233,Dera Ghazi Khan,Dera Ghazi Khan Airport,PK-PB,AS
+EDL,0.0009638314741878817,Eldoret,Eldoret International Airport,KE-700,AF
+CAH,0.0009622396976324277,Ca Mau City,Cà Mau Airport,VN-59,AS
+NCU,0.000958335561402679,Nukus,Nukus Airport,UZ-QR,AS
+ARH,0.0009560016000298432,Archangelsk,Talagi Airport,RU-ARK,EU
+VGA,0.0009382425931289129,,Vijayawada Airport,IN-AP,AS
+VKG,0.0009374903149704794,Rach Gia,Rach Gia Airport,VN-47,AS
+MPM,0.0009264357296865366,Maputo,Maputo Airport,MZ-MPM,AF
+SPI,0.0009262355777959197,Springfield,Abraham Lincoln Capital Airport,US-IL,NA
+RYK,0.0009254541058726362,Rahim Yar Khan,Shaikh Zaid Airport,PK-PB,AS
+YSB,0.0009237078136802301,Sudbury,Sudbury Airport,CA-ON,NA
+AAE,0.0009200562591344941,Annaba,Rabah Bitat Airport,DZ-36,AF
+PBD,0.0009199768500141037,Porbandar,Porbandar Airport,IN-GJ,AS
+AKU,0.0009199142504370261,Aksu,Aksu Airport,CN-65,AS
+SBN,0.0009198225009311445,South Bend,South Bend Regional Airport,US-IN,NA
+NNY,0.000906740314611354,Nanyang,Nanyang Jiangying Airport,CN-41,AS
+KUU,0.0008998933208395066,,Kullu Manali Airport,IN-HP,AS
+OSW,0.0008966062790638496,Orsk,Orsk Airport,RU-ORE,EU
+UAQ,0.0008905875872156077,San Juan,Domingo Faustino Sarmiento Airport,AR-J,SA
+FWA,0.0008841461366286829,Fort Wayne,Fort Wayne International Airport,US-IN,NA
+FEG,0.0008639984865912442,Fergana,Fergana International Airport,UZ-FA,AS
+YTZ,0.0008635967754015983,Toronto,Billy Bishop Toronto City Centre Airport,CA-ON,NA
+TRD,0.0008601812134694242,Trondheim,Trondheim Airport Værnes,NO-17,EU
+GRJ,0.0008568806614143165,George,George Airport,ZA-WC,AF
+NVA,0.0008420442471122058,Neiva,Benito Salas Airport,CO-HUI,SA
+RST,0.0008385118098764854,Rochester,Rochester International Airport,US-MN,NA
+MQF,0.0008381437593051322,Magnitogorsk,Magnitogorsk International Airport,RU-BA,EU
+YQG,0.0008342193740782378,Windsor,Windsor Airport,CA-ON,NA
+JLR,0.0008301224014788389,,Jabalpur Airport,IN-MP,AS
+KOW,0.0008185292089041285,Ganzhou,Ganzhou Airport,CN-36,AS
+MJM,0.0008148189679659801,Mbuji Mayi,Mbuji Mayi Airport,CD-KE,AF
+BJM,0.0008113778291809481,Bujumbura,Bujumbura International Airport,BI-BM,AF
+SLV,0.0008053638073045599,,Shimla Airport,IN-HP,AS
+ADE,0.00079347118367179,Aden,Aden International Airport,YE-AD,AS
+POL,0.0007878053294980703,Pemba / Porto Amelia,Pemba Airport,MZ-P,AF
+ONT,0.0007832375516441115,Ontario,Ontario International Airport,US-CA,NA
+LIL,0.0007751657945520574,Lille/Lesquin,Lille-Lesquin Airport,FR-HDF,EU
+SLM,0.0007721875924447952,Salamanca,Salamanca Airport,ES-CL,EU
+KLH,0.0007720597709967025,,Kolhapur Airport,IN-MM,AS
+DOK,0.0007522399231052468,Donetsk,Donetsk International Airport,UA-14,EU
+MRQ,0.0007509015646167683,Gasan,Marinduque Airport,PH-MAD,AS
+SCO,0.0007463507016449711,Aktau,Aktau Airport,KZ-MAN,AS
+IWA,0.0007393343248555118,Ivanovo,Ivanovo South Airport,RU-IVA,EU
+KGF,0.0007295067506892794,Karaganda,Sary-Arka Airport,KZ-KAR,AS
+UAS,0.0007249797396826629,Samburu,Buffalo Spring,KE-700,AF
+MGZ,0.0007248109238334743,Mkeik,Myeik Airport,MM-05,AS
+TCR,0.0007202103171340957,Thoothukudi,Tuticorin Airport,IN-TN,AS
+EJA,0.0007106151402304084,Barrancabermeja,Yariguíes Airport,CO-SAN,SA
+STV,0.0007025715679804811,,Surat Airport,IN-GJ,AS
+HSV,0.0007017380673898233,Huntsville,Huntsville International Carl T Jones Field,US-AL,NA
+EVV,0.0006981944573908327,Evansville,Evansville Regional Airport,US-IN,NA
+PMC,0.0006957871596637855,Puerto Montt,El Tepual Airport,CL-LL,SA
+KNU,0.0006898155891147395,Kanpur,Kanpur Airport,IN-UP,AS
+CPV,0.000684566962454114,Campina Grande,Presidente João Suassuna Airport,BR-PB,SA
+LNK,0.0006834529049264404,Lincoln,Lincoln Airport,US-NE,NA
+TUF,0.0006756167569123006,Tours/Val de Loire (Loire Valley),Tours-Val-de-Loire Airport,FR-CVL,EU
+SXV,0.000667512224520439,Salem,Salem Airport,IN-TN,AS
+LAN,0.0006661596527400837,Lansing,Capital City Airport,US-MI,NA
+DJJ,0.0006637755111147392,Jayapura-Papua Island,Sentani International Airport,ID-PA,AS
+TML,0.0006636102658392762,Tamale,Tamale Airport,GH-NP,AF
+QRO,0.0006618491539368554,Querétaro,Querétaro Intercontinental Airport,MX-QUE,NA
+TMJ,0.000660714680876695,Termez,Termez Airport,UZ-SU,AS
+AKY,0.0006584542340755117,Sittwe,Sittwe Airport,MM-16,AS
+HOG,0.0006529428174717467,Holguin,Frank Pais International Airport,CU-11,NA
+ISK,0.0006511741275898597,Nasik,Nashik Airport,IN-MM,AS
+NLV,0.0006457779265222063,Nikolayev,Mykolaiv International Airport,UA-48,EU
+VSG,0.0006446084161149113,Luhansk,Luhansk International Airport,UA-09,EU
+WUZ,0.0006413582105786464,Wuzhou,Wuzhou Changzhoudao Airport,CN-45,AS
+INN,0.0006285447208170813,Innsbruck,Innsbruck Airport,AT-7,EU
+ABA,0.0006264808297868907,Abakan,Abakan Airport,RU-KK,AS
+BJZ,0.0006238461526578698,Badajoz,Badajoz Airport,ES-EX,EU
+UGC,0.0006190067250730902,Urgench,Urgench Airport,UZ-XO,AS
+PKV,0.0006165397557457153,Pskov,Pskov Airport,RU-PSK,EU
+GOP,0.0006140267101066854,Gorakhpur,Gorakhpur Airport,IN-UP,AS
+JHG,0.0006063588334496162,Jinghong,Xishuangbanna Gasa Airport,CN-53,AS
+UIB,0.0005959191512495687,Quibdó,El Caraño Airport,CO-CHO,SA
+CCP,0.0005925556505328444,Concepcion,Carriel Sur Airport,CL-BI,SA
+CHG,0.0005918023329726241,Chaoyang,Chaoyang Airport,CN-21,AS
+PPN,0.0005907173316360703,Popayán,Guillermo León Valencia Airport,CO-CAU,SA
+GTO,0.0005852103198722425,Gorontalo-Celebes Island,Jalaluddin Airport,ID-GO,AS
+OSS,0.0005799458222027765,Osh,Osh Airport,KG-O,AS
+YLW,0.0005709255660929502,Kelowna,Kelowna International Airport,CA-BC,NA
+QSF,0.0005589081532162421,Sétif,Ain Arnat Airport,DZ-19,AF
+BJA,0.0005507557348329861,Béjaïa,Soummam Airport,DZ-06,AF
+MQP,0.0005448648998738204,Mpumalanga,Kruger Mpumalanga International Airport,ZA-MP,AF
+SKT,0.0005443990934923537,Sialkot,Sialkot Airport,PK-PB,AS
+PLH,0.0005328071107375543,Plymouth,Plymouth City Airport,GB-ENG,EU
+ARK,0.0005299318189933011,Arusha,Arusha Airport,TZ-01,AF
+YGK,0.0005265580359613553,Kingston,Kingston Norman Rogers Airport,CA-ON,NA
+CAK,0.0005215650138581385,Akron,Akron Canton Regional Airport,US-OH,NA
+UKK,0.0005153690844277303,Ust Kamenogorsk,Ust-Kamennogorsk Airport,KZ-VOS,AS
+FKI,0.0005106738707477687,Kisangani,Bangoka International Airport,CD-OR,AF
+ABC,0.0004949885904048656,Albacete,Albacete-Los Llanos Airport,ES-CM,EU
+TWU,0.0004883171651289819,Tawau,Tawau Airport,MY-12,AS
+FNT,0.0004869202400237249,Flint,Bishop International Airport,US-MI,NA
+DRS,0.0004832028526018384,Dresden,Dresden Airport,DE-SN,EU
+SEB,0.00047263025224830724,Sabha,Sabha Airport,LY-SB,AF
+LUM,0.0004725503284094268,Luxi,Mangshi Airport,CN-53,AS
+BLZ,0.00046899548960877,Blantyre,Chileka International Airport,MW-BL,AF
+IBE,0.0004683253323238823,Ibagué,Perales Airport,CO-TOL,SA
+SBZ,0.0004645686308588637,Sibiu,Sibiu International Airport,RO-SB,EU
+PHG,0.00045786697569005774,Port Harcourt,Port Harcourt City Airport,NG-RI,AF
+SHL,0.0004519919354972757,Shillong,Shillong Airport,IN-ML,AS
+TOL,0.0004474167078328817,Toledo,Toledo Express Airport,US-OH,NA
+BHR,0.00043723506957327185,Bharatpur,Bharatpur Airport,NP-NA,AS
+SSE,0.00043641811398931196,Solapur,Solapur Airport,IN-MM,AS
+HMI,0.0004357345833725379,Hami,Hami Airport,CN-65,AS
+BCM,0.0004354732887020818,Bacău,Bacău Airport,RO-BC,EU
+MZR,0.00042971809827074825,,Mazar I Sharif Airport,AF-BAL,AS
+EGO,0.0004293952052919492,Belgorod,Belgorod International Airport,RU-BEL,EU
+KRY,0.00042805181693927885,Karamay,Karamay Airport,CN-65,AS
+SFA,0.0004221895752274385,Sfax,Sfax Thyna International Airport,TN-61,AF
+NDR,0.00041946188741437407,Nador,Nador International Airport,MA-NAD,AF
+CJC,0.00041077865522920476,Calama,El Loa Airport,CL-AN,SA
+SBW,0.00040767968040889,Sibu,Sibu Airport,MY-13,AS
+URA,0.0003989809059358196,Uralsk,Uralsk Airport,KZ-ZAP,AS
+BRA,0.0003969771108515152,Barreiras,Barreiras Airport,BR-BA,SA
+APO,0.00039481643212080364,Carepa,Antonio Roldan Betancourt Airport,CO-ANT,SA
+CZL,0.0003876934016364686,Constantine,Mohamed Boudiaf International Airport,DZ-25,AF
+AAT,0.00038195397826090716,Altay,Altay Air Base,CN-65,AS
+VDC,0.00037297559777127454,,,,
+SOQ,0.0003619532631308209,Sorong-Papua Island,Dominique Edward Osok Airport,ID-PB,AS
+KSQ,0.0003612031308130037,Khanabad,Karshi Khanabad Airport,UZ-QA,AS
+SDD,0.000358462465297138,Lubango,Lubango Airport,AO-HUI,AF
+CPO,0.00035808236600676224,Copiapo,Desierto de Atacama Airport,CL-AT,SA
+AZN,0.0003566133467668431,Andizhan,Andizhan Airport,UZ-AN,AS
+NVI,0.00035600284435854945,Navoi,Navoi Airport,UZ-NW,AS
+OIM,0.000344567260443851,Izu Oshima,Oshima Airport,JP-13,AS
+TLM,0.0003444147002470421,Tlemcen,Zenata – Messali El Hadj Airport,DZ-13,AF
+HOD,0.0003420261424863513,Hodeida,Hodeidah International Airport,YE-HU,AS
+DLH,0.00033909074836957487,Duluth,Duluth International Airport,US-MN,NA
+IPN,0.0003291716238607023,Ipatinga,Usiminas Airport,BR-MG,SA
+CHA,0.0003257618742508184,Chattanooga,Lovell Field,US-TN,NA
+RCH,0.00032535130231181597,Riohacha,Almirante Padilla Airport,CO-LAG,SA
+BSD,0.0003077670457483084,,Baoshan Yunduan Airport,CN-53,AS
+GWL,0.00030480856392745004,Gwalior,Gwalior Airport,IN-MP,AS
+IXP,0.0003003046803078391,Pathankot,Pathankot Airport,IN-PB,AS
+BVA,0.0002995234941249869,Beauvais/Tillé,Paris Beauvais Tillé Airport,FR-HDF,EU
+ZCO,0.0002940514721866405,Temuco,La Araucanía Airport,CL-AR,SA
+SYZ,0.000293710716400275,Shiraz,Shiraz Shahid Dastghaib International Airport,IR-14,AS
+HUU,0.0002899717200223195,Huánuco,Alferez Fap David Figueroa Fernandini Airport,PE-HUC,SA
+UBA,0.00028715608416662874,Uberaba,Mário de Almeida Franco Airport,BR-MG,SA
+MDK,0.0002813816224777055,Mbandaka,Mbandaka Airport,CD-EQ,AF
+LSC,0.0002793431906794597,La Serena-Coquimbo,La Florida Airport,CL-CO,SA
+MDQ,0.0002785917008492067,Mar del Plata,Ástor Piazzola International Airport,AR-B,SA
+CLD,0.0002781918349622492,Carlsbad,Mc Clellan-Palomar Airport,US-CA,NA
+DIL,0.00027776748310481825,Dili,Presidente Nicolau Lobato International Airport,TL-DI,AS
+PWQ,0.00027614451235247195,Pavlodar,Pavlodar Airport,KZ-PAV,AS
+WIL,0.0002738137553390807,Nairobi,Nairobi Wilson Airport,KE-110,AF
+OZH,0.0002691248339549146,Zaporizhia,Zaporizhzhia International Airport,UA-23,EU
+DIR,0.0002638788346472909,Dire Dawa,Aba Tenna Dejazmach Yilma International Airport,ET-DD,AF
+PIF,0.00024686806775386927,Pingtung,Pingtung North Airport,TW-PIF,AS
+STS,0.0002458375929191847,Santa Rosa,Charles M. Schulz Sonoma County Airport,US-CA,NA
+THR,0.00022684678553386295,Tehran,Mehrabad International Airport,IR-07,AS
+VVC,0.00022665880624916923,Villavicencio,Vanguardia Airport,CO-MET,SA
+GEG,0.0002233788522902902,Spokane,Spokane International Airport,US-WA,NA
+MJN,0.00021775694052483807,,Amborovy Airport,MG-M,AF
+LWN,0.00021764568628290792,Gyumri,Gyumri Shirak Airport,AM-SH,AS
+ARI,0.00021744185064132004,Arica,Chacalluta Airport,CL-AP,SA
+DLU,0.0002104413251237114,Xiaguan,Dali Airport,CN-53,AS
+TMM,0.00020855690257182147,,Toamasina Airport,MG-A,AF
+CHM,0.00020837615961422085,Chimbote,Teniente FAP Jaime A De Montreuil Morales Airport,PE-ANC,SA
+BSK,0.0002082941073598965,Biskra,Biskra Airport,DZ-07,AF
+MMX,0.00020009320862102165,Malmö,Malmö Sturup Airport,SE-M,EU
+VLN,0.00019242791935414338,Valencia,Arturo Michelena International Airport,VE-G,SA
+LIR,0.00019152406528777366,Liberia,Daniel Oduber Quiros International Airport,CR-G,NA
+AEP,0.00019065132365969628,Buenos Aires,Jorge Newbery Airpark,AR-C,SA
+GDQ,0.00018602019187030638,Gondar,Gonder Airport,ET-AM,AF
+SJK,0.00017769226972530472,São José Dos Campos,Professor Urbano Ernesto Stumpf Airport,BR-SP,SA
+TLE,0.0001752060553047441,,Toliara Airport,MG-U,AF
+UND,0.00017217467275487675,,Konduz Airport,AF-KDZ,AS
+BOY,0.00016886084655343137,Bobo Dioulasso,Bobo Dioulasso Airport,BF-HOU,AF
+DAL,0.0001673023456324474,Dallas,Dallas Love Field,US-TX,NA
+BLJ,0.0001656349922984912,Batna,Batna Airport,DZ-05,AF
+MZI,0.0001540344723024445,,Mopti Airport,ML-5,AF
+KGA,0.00015008005297612037,Kananga,Kananga Airport,CD-KW,AF
+BFL,0.00013847619917628506,Bakersfield,Meadows Field,US-CA,NA
+NLA,0.0001369572703466826,Ndola,Simon Mwansa Kapwepwe International Airport,ZM-08,AF
+SCK,0.00013388531704516815,Stockton,Stockton Metropolitan Airport,US-CA,NA
+PUQ,0.00013224847323667355,Punta Arenas,Pdte. Carlos Ibañez del Campo Airport,CL-MA,SA
+BSX,0.0001263711868662032,Pathein,Pathein Airport,MM-07,AS
+KIM,0.00012269945500309465,Kimberley,Kimberley Airport,ZA-NC,AF
+FLA,0.00011697320072945327,Florencia,Gustavo Artunduaga Paredes Airport,CO-CAQ,SA
+ZAL,0.00011617929585783227,Valdivia,Pichoy Airport,CL-LR,SA
+JIM,0.00011588979325305448,Jimma,Jimma Airport,ET-OR,AF
+BHI,0.00011397871450247177,Bahia Blanca,Comandante Espora Airport,AR-B,SA
+LSH,0.00011209275704271437,Lashio,Lashio Airport,MM-17,AS
+TTE,0.00010406024558540228,Sango-Ternate Island,Sultan Babullah Airport,ID-MU,AS
+BSR,9.814430670818108e-05,Basrah,Basrah International Airport,IQ-BA,AS
+EUG,9.115948370197469e-05,Eugene,Mahlon Sweet Field,US-OR,NA
+BIL,8.671648462466042e-05,Billings,Billings Logan International Airport,US-MT,NA
+AJI,7.291915022045181e-05,,Ağrı Airport,TR-04,AS
+MGQ,6.941255183257056e-05,Mogadishu,Aden Adde International Airport,SO-BN,AF
+MLW,6.905874697726855e-05,Monrovia,Spriggs Payne Airport,LR-MO,AF
+MKX,6.769471763212742e-05,,,,
+DQA,6.737223321584551e-05,Daqing Shi,Saertu Airport,CN-23,AS
+MOC,6.512193030605573e-05,Montes Claros,Mário Ribeiro Airport,BR-MG,SA
+PLU,6.179150653196075e-05,Belo Horizonte,Pampulha - Carlos Drummond de Andrade Airport,BR-MG,SA
+SJE,4.8930698734017675e-05,San José Del Guaviare,Jorge E. Gonzalez Torres Airport,CO-GUV,SA
+BBO,4.665280761018131e-05,Berbera,Berbera Airport,SO-WO,AF
+VIS,4.576591362637217e-05,Visalia,Visalia Municipal Airport,US-CA,NA
+BUN,4.1227482220906886e-05,Buenaventura,Gerardo Tobar López Airport,CO-VAC,SA
+MAR,3.181235922744552e-05,Maracaibo,La Chinita International Airport,VE-V,SA
+GVR,2.4878541403206e-05,Governador Valadares,Coronel Altino Machado de Oliveira Airport,BR-MG,SA
+RFD,2.397129557629718e-05,Chicago/Rockford,Chicago Rockford International Airport,US-IL,NA
+BEW,2.187670112030471e-05,Beira,Beira Airport,MZ-S,AF
+HGA,2.0976523699034466e-05,Hargeisa,Egal International Airport,SO-WO,AF
+AGR,1.7269963267785293e-05,,Agra Airport,IN-UP,AS
+TET,1.612189994060209e-05,Tete,Chingozi Airport,MZ-T,AF
+APL,1.5844509406837126e-05,Nampula,Nampula Airport,MZ-N,AF
+MFE,1.4817287985913197e-05,Mc Allen,Mc Allen Miller International Airport,US-TX,NA
+HDD,1.0024769944494416e-05,Hyderabad,Hyderabad Airport,PK-SD,AS
+UEL,8.408758361277968e-06,Quelimane,Quelimane Airport,MZ-Q,AF
+WNS,7.848348168248975e-06,Nawabashah,Shaheed Benazirabad Airport,PK-SD,AS
+VPY,4.3016828550346276e-06,Chimoio,Chimoio Airport,MZ-B,AF
+YXX,3.702827867657632e-07,Abbotsford,Abbotsford Airport,CA-BC,NA
+ROS,0.0,Rosario,Islas Malvinas Airport,AR-S,SA
+KHY,0.0,Khoy,Khoy Airport,IR-02,AS
+YES,0.0,Yasouj,Yasouj Airport,IR-18,AS
+XBJ,0.0,Birjand,Birjand Airport,IR-29,AS
+VIT,0.0,Alava,Vitoria/Foronda Airport,ES-PV,EU
+SDG,0.0,,Sanandaj Airport,IR-16,AS
+KSH,0.0,Kermanshah,Shahid Ashrafi Esfahani Airport,IR-17,AS
+BVB,0.0,Boa Vista,Atlas Brasil Cantanhede Airport,BR-RR,SA
+BTR,0.0,Baton Rouge,Baton Rouge Metropolitan Airport,US-LA,NA
+KHD,0.0,,Khoram Abad Airport,IR-20,AS
+YHM,0.0,Hamilton,John C. Munro Hamilton International Airport,CA-ON,NA
+HBA,0.0,Hobart,Hobart International Airport,AU-TAS,OC
+OSM,0.0,Mosul,Mosul International Airport,IQ-NI,AS
+AFZ,0.0,Sabzevar,Sabzevar National Airport,IR-30,AS
+ADU,0.0,Ardabil,Ardabil Airport,IR-03,AS
+ZOS,0.0,Osorno,Cañal Bajo Carlos - Hott Siebert Airport,CL-LL,SA
+JOL,0.0,,Jolo Airport,PH-SLU,AS
+CWC,0.0,Chernivtsi,Chernivtsi International Airport,UA-77,EU
+CRA,0.0,Craiova,Craiova Airport,RO-DJ,EU
+CFG,0.0,Cienfuegos,Jaime Gonzalez Airport,CU-06,NA
+LRM,0.0,La Romana,Casa De Campo International Airport,DO-12,NA
+RJL,0.0,Logroño,Logroño-Agoncillo Airport,ES-LO,EU
+MST,0.0,Maastricht,Maastricht Aachen Airport,NL-LI,EU
+NWI,0.0,Norwich,Norwich International Airport,GB-ENG,EU
+TIF,0.0,Ta’if,Ta’if Regional Airport,SA-02,AS
+TRI,0.0,Bristol/Johnson/Kingsport,Tri-Cities Regional TN/VA Airport,US-TN,NA
+ODY,0.0,Oudomsay,Oudomsay Airport,LA-OU,AS
+MCY,0.0,Maroochydore,Sunshine Coast Airport,AU-QLD,OC
+YKF,0.0,Kitchener,Waterloo Airport,CA-ON,NA
+BLK,0.0,Blackpool,Blackpool International Airport,GB-ENG,EU
+ULG,0.0,,Ulgii Mongolei Airport,MN-071,AS
+PLX,0.0,Semey,Semipalatinsk Airport,KZ-VOS,AS
+MEC,0.0,Manta,Eloy Alfaro International Airport,EC-M,SA
+LOH,0.0,La Toma (Catamayo),Camilo Ponce Enriquez Airport,EC-L,SA
+DZN,0.0,Zhezkazgan,Zhezkazgan Airport,KZ-KAR,AS
+REG,0.0,Reggio Calabria,Reggio Calabria Airport,IT-78,EU
+MGM,0.0,Montgomery,Montgomery Regional (Dannelly Field) Airport,US-AL,NA
+TRG,0.0,Tauranga,Tauranga Airport,NZ-BOP,OC
+CBB,0.0,Cochabamba,Jorge Wilsterman International Airport,BO-C,SA
+HLZ,0.0,Hamilton,Hamilton International Airport,NZ-WKO,OC
+DUD,0.0,Dunedin,Dunedin Airport,NZ-OTA,OC
+TBO,0.0,Tabora,Tabora Airport,TZ-24,AF
+UPN,0.0,,Licenciado y General Ignacio Lopez Rayon Airport,MX-MIC,NA
+ZAH,0.0,Zahedan,Zahedan International Airport,IR-13,AS
+CFR,0.0,Caen/Carpiquet,Caen-Carpiquet Airport,FR-NOR,EU
+LEH,0.0,Le Havre/Octeville,Le Havre Octeville Airport,FR-NOR,EU
+PPK,0.0,Petropavlosk,Petropavlosk South Airport,KZ-SEV,AS
+KSN,0.0,Kostanay,Kostanay West Airport,KZ-KUS,AS
+RAE,0.0,Arar,Arar Domestic Airport,SA-08,AS
+TAY,0.0,Tartu,Tartu Airport,EE-7B,EU
+BAY,0.0,Baia Mare,Maramureș International Airport,RO-MM,EU
+OMR,0.0,Oradea,Oradea International Airport,RO-BH,EU
+SUJ,0.0,Satu Mare,Satu Mare Airport,RO-SM,EU
+RUA,0.0,Arua,Arua Airport,UG-N,AF
+BNX,0.0,Banja Luka,Banja Luka International Airport,BA-SRP,EU
+TMS,0.0,São Tomé,São Tomé International Airport,ST-S,AF
+VXC,0.0,Lichinga,Lichinga Airport,MZ-A,AF
+LCE,0.0,La Ceiba,Goloson International Airport,HN-AT,NA
+BOH,0.0,Bournemouth,Bournemouth Airport,GB-ENG,EU
+KOE,0.0,Kupang-Timor Island,El Tari Airport,ID-NT,AS
+HRK,0.0,Kharkiv,Kharkiv International Airport,UA-63,EU
+RBR,0.0,Rio Branco,Plácido de Castro Airport,BR-AC,SA
+KBU,0.0,Stagen - Laut Island,Gusti Syamsir Alam Airport,ID-KS,AS
+OSR,0.0,Ostrava,Ostrava Leos Janáček Airport,CZ-MO,EU
+UDJ,0.0,Uzhhorod,Uzhhorod International Airport,UA-21,EU
+MII,0.0,Marília,Frank Miloye Milenkowichi–Marília State Airport,BR-SP,SA
+ADJ,0.0,Amman,Amman-Marka International Airport,JO-AM,AS
+TKU,0.0,Turku,Turku Airport,FI-LS,EU
+RIG,0.0,Rio Grande,Rio Grande Airport,BR-RS,SA
+DSK,0.0,Dera Ismael Khan,Dera Ismael Khan Airport,PK-NW,AS
+HVN,0.0,New Haven,Tweed New Haven Airport,US-CT,NA
+CND,0.0,Constanţa,Mihail Kogălniceanu International Airport,RO-CT,EU
+MOD,0.0,Modesto,Modesto City Co-Harry Sham Field,US-CA,NA
+CFK,0.0,,Ech Cheliff Airport,DZ-02,AF
+MAB,0.0,Marabá,João Correa da Rocha Airport,BR-PA,SA
+SDK,0.0,Sandakan,Sandakan Airport,MY-12,AS
+MUZ,0.0,Musoma,Musoma Airport,TZ-13,AF
+SHY,0.0,Shinyanga,Shinyanga Airport,TZ-22,AF
+LGL,0.0,Long Datih,Long Lellang Airport,MY-13,AS
+PLD,0.0,Carrillo,Playa Samara/Carrillo Airport,CR-G,NA
+TOM,0.0,Timbuktu,Timbuktu Airport,ML-7,AF
+GRQ,0.0,Groningen,Eelde Airport,NL-DR,EU
+SZB,0.0,Subang,Sultan Abdul Aziz Shah International Airport,MY-10,AS
+SKO,0.0,Sokoto,Sadiq Abubakar III International Airport,NG-SO,AF
+INI,0.0,Nis,Nis Airport,RS-20,EU
+PBM,0.0,Zandery,Johan Adolf Pengel International Airport,SR-PR,SA
+IEV,0.0,Kiev,Kiev Zhuliany International Airport,UA-32,EU
+BPM,0.0,Hyderabad,Begumpet Airport,IN-TG,AS
+GNV,0.0,Gainesville,Gainesville Regional Airport,US-FL,NA
+URG,0.0,Uruguaiana,Rubem Berta Airport,BR-RS,SA
+PET,0.0,Pelotas,João Simões Lopes Neto International Airport,BR-RS,SA
+STG,0.0,St George,St George Airport,US-AK,NA
+AHN,0.0,Athens,Athens Ben Epps Airport,US-GA,NA
+IFN,0.0,Isfahan,Esfahan Shahid Beheshti International Airport,IR-04,AS
+STM,0.0,Santarém,Maestro Wilson Fonseca Airport,BR-PA,SA
+MCP,0.0,Macapá,Alberto Alcolumbre Airport,BR-AP,SA
+PKK,0.0,Pakhokku,Pakhokku Airport,MM-03,AS
+BLA,0.0,Barcelona,General José Antonio Anzoategui International Airport,VE-B,SA
+SYQ,0.0,San Jose,Tobias Bolanos International Airport,CR-SJ,NA
+BMA,0.0,Stockholm,Stockholm-Bromma Airport,SE-AB,EU
+COU,0.0,Columbia,Columbia Regional Airport,US-MO,NA
+PUB,0.0,Pueblo,Pueblo Memorial Airport,US-CO,NA
+ABI,0.0,Abilene,Abilene Regional Airport,US-TX,NA
+SPS,0.0,Wichita Falls,Sheppard Air Force Base-Wichita Falls Municipal Airport,US-TX,NA
+JIJ,0.0,Jijiga,Wilwal International Airport,ET-SO,AF
+EBU,0.0,Saint-Étienne/Bouthéon,Saint-Étienne-Bouthéon Airport,FR-ARA,EU
+TGM,0.0,Târgu Mureş,Transilvania Târgu Mureş International Airport,RO-MS,EU
+YHU,0.0,Montréal,Montréal / Saint-Hubert Airport,CA-QC,NA
+BDH,0.0,Bandar Lengeh,Bandar Lengeh Airport,IR-23,AS
+BUZ,0.0,Bushehr,Bushehr Airport,IR-06,AS
+HBE,0.0,Alexandria,Borg El Arab International Airport,EG-ALX,AF
+LFT,0.0,Lafayette,Lafayette Regional Airport,US-LA,NA
+GOJ,0.0,Nizhny Novgorod,Nizhny Novgorod Strigino International Airport,RU-NIZ,EU
+UYL,0.0,Nyala,Nyala Airport,SD-11,AF
+BFI,0.0,Seattle,Boeing Field King County International Airport,US-WA,NA
+LBB,0.0,Lubbock,Lubbock Preston Smith International Airport,US-TX,NA
+GYM,0.0,Guaymas,General José María Yáñez International Airport,MX-SON,NA
+TSV,0.0,Townsville,Townsville Airport,AU-QLD,OC
+GRK,0.0,Fort Hood/Killeen,Robert Gray  Army Air Field Airport,US-TX,NA
+BRO,0.0,Brownsville,Brownsville South Padre Island International Airport,US-TX,NA
+BPT,0.0,Beaumont/Port Arthur,Southeast Texas Regional Airport,US-TX,NA
+AMA,0.0,Amarillo,Rick Husband Amarillo International Airport,US-TX,NA
+ACT,0.0,Waco,Waco Regional Airport,US-TX,NA
+WLG,0.0,Wellington,Wellington International Airport,NZ-WGN,OC
+TEQ,0.0,Çorlu,Tekirdağ Çorlu Airport,TR-59,EU
+BND,0.0,Bandar Abbas,Bandar Abbas International Airport,IR-23,AS
+RTW,0.0,Saratov,Saratov Central Airport,RU-SAR,EU
+GOM,0.0,Goma,Goma International Airport,CD-NK,AF
+KND,0.0,Kindu,Kindu Airport,CD-MA,AF
+GPA,0.0,Patras,Araxos Airport,GR-13,EU
+ERF,0.0,Erfurt,Erfurt Airport,DE-TH,EU
+CBR,0.0,Canberra,Canberra International Airport,AU-ACT,OC
+ROO,0.0,Rondonópolis,Maestro Marinho Franco Airport,BR-MT,SA
+RLG,0.0,Rostock,Rostock-Laage Airport,DE-MV,EU
+RJK,0.0,Rijeka,Rijeka Airport,HR-08,EU
+BTU,0.0,Bintulu,Bintulu Airport,MY-13,AS
+FAY,0.0,Fayetteville,Fayetteville Regional Grannis Field,US-NC,NA
+JHB,0.0,Johor Bahru,Senai International Airport,MY-01,AS
+KXK,0.0,Komsomolsk-on-Amur,Komsomolsk-on-Amur Airport,RU-KHA,AS
+MZV,0.0,Mulu,Mulu Airport,MY-13,AS
+NKM,0.0,Nagoya,Nagoya Airport,JP-23,AS
+AWZ,0.0,Ahwaz,Ahwaz Airport,IR-10,AS
+KZO,0.0,Kzyl-Orda,Kzyl-Orda Southwest Airport,KZ-KZY,AS
+ABD,0.0,Abadan,Abadan Airport,IR-10,AS
+TLH,0.0,Tallahassee,Tallahassee Regional Airport,US-FL,NA
+AHB,0.0,Abha,Abha Regional Airport,SA-14,AS
+PZH,0.0,Fort Sandeman,Zhob Airport,PK-BA,AS
+LRD,0.0,Laredo,Laredo International Airport,US-TX,NA
+PVH,0.0,Porto Velho,Governador Jorge Teixeira de Oliveira Airport,BR-RO,SA
+CAC,0.0,Cascavel,Cascavel Airport,BR-PR,SA
+TGU,0.0,Tegucigalpa,Toncontín International Airport,HN-FM,NA
+DMK,0.0,Bangkok,Don Mueang International Airport,TH-10,AS
+SHV,0.0,Shreveport,Shreveport Regional Airport,US-LA,NA
+MUN,0.0,,Maturín Airport,VE-N,SA
+BRM,0.0,Barquisimeto,Barquisimeto International Airport,VE-K,SA
+MOB,0.0,Mobile,Mobile Regional Airport,US-AL,NA
+MGA,0.0,Managua,Augusto C. Sandino (Managua) International Airport,NI-MN,NA
+BNS,0.0,Barinas,Barinas Airport,VE-E,SA
+TJA,0.0,Tarija,Capitan Oriel Lea Plaza Airport,BO-T,SA
+SRZ,0.0,Santa Cruz,El Trompillo Airport,BO-S,SA
+SRE,0.0,Yamparaez,Alcantarí Airport,BO-H,SA
+CAP,0.0,Cap Haitien,Cap Haitien International Airport,HT-ND,NA
+NBW,0.0,Guantanamo Bay Naval Station,Leeward Point Field,CU-14,NA
+RAS,0.0,Rasht,Sardar-e-Jangal Airport,IR-19,AS
+LDU,0.0,Lahad Datu,Lahad Datu Airport,MY-12,AS
+LVI,0.0,Livingstone,Harry Mwanga Nkumbula International Airport,ZM-07,AF
+MSU,0.0,Maseru,Moshoeshoe I International Airport,LS-A,AF
+MTS,0.0,Manzini,Matsapha Airport,SZ-MA,AF
+PHW,0.0,Phalaborwa,Hendrik Van Eck Airport,ZA-NP,AF
+PTG,0.0,Polokwane,Polokwane International Airport,ZA-NP,AF
+PZB,0.0,Pietermaritzburg,Pietermaritzburg Airport,ZA-NL,AF
+RCB,0.0,Richards Bay,Richards Bay Airport,ZA-NL,AF
+MAF,0.0,Midland,Midland International Airport,US-TX,NA
+CRP,0.0,Corpus Christi,Corpus Christi International Airport,US-TX,NA
+CJJ,0.0,Cheongju,Cheongju International Airport/Cheongju Air Base (K-59/G-513),KR-43,AS
+IAS,0.0,Iaşi,Iaşi Airport,RO-IS,EU
+KSC,0.0,Košice,Košice Airport,SK-KI,EU
+UPB,0.0,Havana,Playa Baracoa Airport,CU-02,NA
+IXD,0.0,Allahabad,Allahabad Airport,IN-UP,AS
+KUV,0.0,Kunsan,Kunsan Air Base,KR-45,AS
+ARD,0.0,Alor Island,Mali Airport,ID-NT,AS
+EBD,0.0,Al-Ubayyid,El Obeid Airport,SD-09,AF
+PZU,0.0,Port Sudan,Port Sudan New International Airport,SD-26,AF
+AOR,0.0,Alor Satar,Sultan Abdul Halim Airport,MY-02,AS
+KBR,0.0,Kota Baharu,Sultan Ismail Petra Airport,MY-03,AS
+KUA,0.0,Kuantan,Kuantan Airport,MY-06,AS
+TGG,0.0,Kuala Terengganu,Sultan Mahmud Airport,MY-11,AS
+FNL,0.0,Fort Collins/Loveland,Northern Colorado Regional Airport,US-CO,NA
+SRX,0.0,Sirt,Gardabya Airport,LY-SR,AF
+MRA,0.0,Misratah,Misratah Airport,LY-MI,AF
+PIE,0.0,St Petersburg-Clearwater,St Petersburg Clearwater International Airport,US-FL,NA
+AAN,0.0,Al Ain,Al Ain International Airport,AE-AZ,AS
+AZA,0.0,Phoenix,Phoenix-Mesa-Gateway Airport,US-AZ,NA
+BSA,0.0,Bosaso,Bosaso Airport,SO-BR,AF
+YNB,0.0,Yanbu,Prince Abdulmohsin Bin Abdulaziz Airport,SA-03,AS
+CCM,0.0,Criciúma,Diomício Freitas Airport,BR-SC,SA
+NTL,0.0,Williamtown,Newcastle Airport,AU-NSW,OC
+XAP,0.0,Chapecó,Serafin Enoss Bertaso Airport,BR-SC,SA
+CUE,0.0,Cuenca,Mariscal Lamar Airport,EC-A,SA
+MHG,0.0,Mannheim,Mannheim-City Airport,DE-BW,EU
+SCN,0.0,Saarbrücken,Saarbrücken Airport,DE-SL,EU
+RDN,0.0,Redang,LTS Pulau Redang Airport,MY-11,AS
+BYM,0.0,Bayamo,Carlos Manuel de Cespedes Airport,CU-12,NA
+CMW,0.0,Camaguey,Ignacio Agramonte International Airport,CU-09,NA
+GAO,0.0,Guantánamo,Mariana Grajales Airport,CU-14,NA
+MZO,0.0,Manzanillo,Sierra Maestra Airport,CU-12,NA
+SCU,0.0,Santiago,Antonio Maceo International Airport,CU-13,NA
+VTU,0.0,Las Tunas,Hermanos Ameijeiras Airport,CU-10,NA
+OUL,0.0,Oulu / Oulunsalo,Oulu Airport,FI-OL,EU
+TWB,0.0,Toowoomba,Toowoomba Airport,AU-QLD,OC
+LST,0.0,Launceston,Launceston Airport,AU-TAS,OC
+TUU,0.0,Tabuk,Tabuk Airport,SA-07,AS
+KUT,0.0,Kutaisi,Kopitnari Airport,GE-IM,AS
+AZD,0.0,Yazd,Shahid Sadooghi Airport,IR-25,AS
+GBE,0.0,Gaborone,Sir Seretse Khama International Airport,BW-SE,AF
+SLL,0.0,Salalah,Salalah Airport,OM-ZU,AS
+ERI,0.0,Erie,Erie International Tom Ridge Field,US-PA,NA
+NZE,0.0,Nzérékoré,Nzérékoré Airport,GN-N,AF
+BUQ,0.0,Bulawayo,Joshua Mqabuko Nkomo International Airport,ZW-BU,AF
+RIA,0.0,Santa Maria,Santa Maria Airport,BR-RS,SA
+ELF,0.0,El Fasher,El Fasher Airport,SD-02,AF
+SCV,0.0,Suceava,Suceava Stefan cel Mare Airport,RO-SV,EU
+WJU,0.0,Wonju,Wonju/Hoengseong Air Base (K-38/K-46),KR-42,AS
+HAS,0.0,Ha'il,Ha'il Airport,SA-06,AS
+LTK,0.0,Latakia,Bassel Al-Assad International Airport,SY-LA,AS
+PHF,0.0,Newport News,Newport News Williamsburg International Airport,US-VA,NA
